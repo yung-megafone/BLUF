@@ -1,147 +1,487 @@
-### 📂 **Repository Structure**
-```
-📂 BLUF/
-├── 📂 BLUF-Legislation/
-│   ├── 📂 Articles/
-│   │   ├── 📄 Article_I_Founding_and_Authority.md
-│   │   ├── 📄 Article_II_BWARS.md
-│   │   ├── 📄 Article_III_Conflict_Policy.md
-│   │   ├── 📄 Article_IX_Treasury.md
-│   │   ├── 📄 Article_XXIII_Classified_NSIC_Operations.md
-│   │   ├── 📄 Article_XXV_Weapons_Development.md
-│   │   └── 📄 README.md
-│   ├── 📂 Penal_Code/
-│   │   ├── 📄 Criminal_Offenses.md
-│   │   ├── 📄 Economic_Violations.md
-│   │   ├── 📄 Military_Tribunal_Acts.md
-│   │   ├── 📄 High_Treason_Statutes.md
-│   │   ├── 📄 Classified_Operations_Exemptions.md
-│   │   └── 📄 README.md
-│   ├── 📄 README.md
-│   ├── 📄 BULF-Index.md
-│   └── 📄 BULF-Constitution.md
-├── 📂 BluCor-Strategization-Complex/
-│   ├── 📂 Classified-Directives/
-│   │   ├── 📄 BSC-2025-001_NSIC_WMD_Discovery.md
-│   │   ├── 📄 BSC-2025-002_Treasury_Incident.md
-│   │   ├── 📄 BSC-2025-003_OrCor_Sanctions.md
-│   │   ├── 📄 BSC-2025-004_Operation_STARFIRE.md
-│   │   └── 📄 README.md
-│   ├── 📂 Intelligence-Operations/
-│   │   ├── 📄 STARFIRE_Research.md
-│   │   ├── 📄 NSIC_Surveillance.md
-│   │   ├── 📄 BluCor_Tactical_Audits.md
-│   │   ├── 📄 OrCor_Threat_Reports.md
-│   │   └── 📄 README.md
-│   ├── 📄 README.md
-├── 📂 Public-Statements/
-│   ├── 📄 Treasury_Heist_Public_Report.md
-│   ├── 📄 Nuclear_Research_Clarification.md
-│   ├── 📄 Security_Measures_Announcement.md
-│   ├── 📄 PoI-1_Facility_Takeover.md
-│   ├── 📄 High_Table_Statement_on_NSIC.md
-│   ├── 📄 BWARS_Economic_Update.md
-│   └── 📄 README.md
-├── 📂 Archives/
-│   ├── 📂 Declassified-Documents/
-│   │   ├── 📄 Treasury_Incident_Summary.md
-│   │   ├── 📄 NSIC_Coup_Report.md
-│   │   ├── 📄 Nuclear_Weapons_Development.md
-│   │   ├── 📄 BWARS_Trade_Agreement.md
-│   │   └── 📄 README.md
-│   ├── 📂 Intelligence-Reports/
-│   │   ├── 📄 OrCor_Movements.md
-│   │   ├── 📄 Strategic_Threats_2025.md
-│   │   ├── 📄 NSIC_Leaks_Investigation.md
-│   │   ├── 📄 BluCor_Operational_Readiness.md
-│   │   └── 📄 README.md
-│   ├── 📄 README.md
-├── 📂 Legal-Framework/
-│   ├── 📄 Charter_Index.md
-│   ├── 📄 International_Treaties.md
-│   ├── 📄 BLUF_Interpretations.md
-│   ├── 📄 BLUF_Amendments_Log.md
-│   ├── 📄 NSIC_Legal_Case_2025.md
-│   ├── 📄 README.md
-├── 📄 LICENSE
-├── 📄 README.md
-└── 📄 CONTRIBUTING.md
-```
+# BLUF ARCHIVE INDEX
+## BluCor Unified Legislative Framework
+
+STATUS: ACTIVE  
+LAST UPDATED: 2026-05-23  
+ARCHIVE CLASSIFICATION: MIXED ACCESS  
+ROOT AUTHORITY: BULF / BLUCOR STRATEGIC COALITION
+# BLUF ARCHIVE
+## BluCor Unified Legislative Framework
+
+STATUS: ACTIVE  
+ARCHIVE VERSION: 1.0  
+LAST UPDATED: 2026-05-23  
+PRIMARY GOVERNING AUTHORITY: BLUCOR STRATEGIC COALITION
 
 ---
 
-### 📄 **README.md** (Initial Draft)
+# PROJECT OVERVIEW
 
-# BluCor Unified Legislative Framework (BLUF) Repository
+The BLUF Archive serves as the centralized legal, historical, administrative, intelligence, and continuity documentation system governing the BluCor Strategic Coalition and its affiliated territories.
 
-**Welcome to the official BluCor Unified Legislative Framework (BLUF) repository.**  
-This repository serves as the official archive for all BluCor laws, penal codes, military statutes, classified directives, intelligence reports, and public statements.
+The archive exists to preserve operational continuity through structured documentation of:
 
-## 📜 About BLUF
-The **BluCor Unified Legislative Framework (BLUF)** is the governing legal structure for all BluCor-affiliated organizations and operational jurisdictions.  
-It defines **legal mandates, military governance, economic policies, and intelligence oversight** for state security and public stability.
+- Governmental authority
+- Legislative doctrine
+- Penal systems
+- Infrastructure policy
+- Classified operations
+- Intelligence activity
+- Public communications
+- Strategic continuity procedures
 
-## 📂 Repository Structure
-This repository is organized into the following directories:
-
-- **BLUF-Legislation/** → The core **legislative documents**, including individual **Articles, Penal Codes, and constitutional frameworks**.
-- **BluCor-Strategization-Complex/** → Directives, classified operations, and intelligence oversight documents from **BSC-2**.
-- **Public-Statements/** → Official press releases, High Table statements, and publicly disclosed security updates.
-- **Archives/** → **Declassified** and **historical intelligence** reports, economic policies, and strategic military analysis.
-- **Legal-Framework/** → Interpretations, amendments, and legal precedents related to **BLUF laws and international treaties**.
+The archive additionally functions as the official historical and administrative record of Coalition development following the Foundational Era beginning circa 2020-03-21.
 
 ---
 
-## ⚖️ BLUF Charter & Legal Framework
-All legal statutes, amendments, and interpretations are located in the **BLUF-Legislation/** and **Legal-Framework/** directories.
-
-### 🔹 **Key Documents**
-- 📄 **BULF-Constitution.md** → The foundational legal document of BluCor governance.
-- 📄 **BULF-Index.md** → A comprehensive **list of all Articles and their respective subsections**.
-- 📄 **Penal_Code/** → A breakdown of criminal, economic, and military legal violations.
-- 📄 **Legal-Framework/NSIC_Legal_Case_2025.md** → The **legal proceedings and analysis** surrounding the NSIC coup and intelligence leaks.
+# TERMINOLOGY
 
 ---
 
-## 🔒 Classified & Intelligence Reports
-🚨 **All classified directives are restricted to BluCor High Table authorization.**  
-- 📄 **BluCor-Strategization-Complex/** → Directives issued by **BluCor’s BSC-2 intelligence division**.
-- 📄 **Intelligence-Operations/** → Ongoing surveillance, cyber-warfare assessments, and counterintelligence operations.
+## BLUF
+### BluCor Legislative Unified Framework
+
+BLUF refers to the overall archival and governmental documentation ecosystem maintained by the Coalition.
+
+The BLUF archive contains:
+
+- Legislative records
+- Classified directives
+- Public statements
+- Penal codes
+- Continuity doctrine
+- Administrative regulations
+- Historical records
+- Strategic infrastructure policy
+
+BLUF serves as the central state archive and continuity documentation system.
 
 ---
 
-## 📢 Public Announcements
-All **non-classified** BluCor statements regarding **national security, economic policies, and defense initiatives** are located in:
-- 📂 **Public-Statements/** → Official BluCor public reports.
+## BULF
+### BluCor Unified Legislative Framework
+
+BULF refers specifically to the legal and constitutional governing framework operating within the Coalition.
+
+BULF includes:
+
+- Constitutional authority
+- Articles of governance
+- Penal systems
+- Tribunal frameworks
+- Emergency powers
+- Infrastructure law
+- Security doctrine
+
+Where BLUF represents the archive itself, BULF represents the legal system contained within it.
 
 ---
 
-## 🛠️ Contributing
-**Contributions to this repository are restricted to authorized BluCor personnel.**  
-If you have security clearance, refer to **CONTRIBUTING.md** for guidelines.
+## BSC
+### BluCor Strategic Coalition
+
+The BluCor Strategic Coalition functions as the primary governing authority operating throughout recognized Coalition territory.
+
+The BSC oversees:
+
+- Infrastructure
+- Security
+- Intelligence operations
+- Treasury systems
+- Strategic continuity
+- Urban expansion
+- Territorial administration
+- Classified operations
+
+The Coalition was formalized following increasing territorial expansion and infrastructure centralization throughout the Foundational Era.
 
 ---
 
-## 📜 License
-This repository is governed by **BluCor Internal Security Policies (BISP)**.  
-Unauthorized distribution or modification of **classified** files will result in **High Treason charges under BLUF statutes**.
+## BWARS
+### Bureau of Warfare, Administration, Regulation, and Security
+
+BWARS serves as the Coalition’s primary visible enforcement and stability preservation authority.
+
+Responsibilities include:
+
+- Civil enforcement
+- Infrastructure security
+- Patrol operations
+- Checkpoint management
+- Riot suppression
+- Emergency response
+- Facility inspections
+- Strategic asset protection
+
+BWARS operates openly throughout Coalition territory.
 
 ---
 
-## 🔗 Additional Resources
-- 📄 **International Treaties & Agreements** → [Legal-Framework/International_Treaties.md](Legal-Framework/International_Treaties.md)
-- 📄 **Classified Military Directives** → [BluCor-Strategization-Complex/Classified-Directives/](BluCor-Strategization-Complex/Classified-Directives/)
-- 📄 **BLUF Penal Code** → [BLUF-Legislation/Penal_Code/](BLUF-Legislation/Penal_Code/)
-- 📄 **Amendments Log** → [Legal-Framework/BLUF_Amendments_Log.md](Legal-Framework/BLUF_Amendments_Log.md)
+## NSIC
+### National Strategic Intelligence Command
+
+NSIC serves as the Coalition’s classified intelligence and continuity preservation authority.
+
+NSIC responsibilities include:
+
+- Counterintelligence
+- Classified investigations
+- Information control
+- Surveillance systems
+- Strategic threat assessment
+- Compartmentalized operations
+- Continuity preservation
+- Covert enforcement
+
+Many NSIC activities remain permanently classified.
 
 ---
 
-🛑 **Warning:** Unauthorized access to **classified** directories is strictly prohibited.  
-BluCor retains the right to restrict access and **enforce countermeasures** under BLUF security directives.
+# HISTORICAL CONTEXT
 
-🚨 **For authorized personnel, please ensure you have the necessary security clearance before making modifications.**
+The Coalition traces its recognized territorial continuity to the Foundational Era beginning circa 2020-03-21.
+
+As infrastructure expanded, underground systems developed, districts interconnected, and strategic governance centralized, the need for unified legal and operational structure increased substantially.
+
+The BULF system emerged circa 2024 as an effort to consolidate:
+
+- Territorial governance
+- Security enforcement
+- Infrastructure regulation
+- Economic oversight
+- Intelligence authority
+- Emergency continuity doctrine
+
+The current Constitution was formally ratified on 2026-05-23.
 
 ---
 
-**📌 Repository Maintained by BluCor Strategization Complex (BSC-2)**  
-**🛡️ All Rights Reserved | BLUF Internal Security Mandates Apply**
+# ACCESS NOTICE
+
+Certain records contained within this archive may:
+
+- Remain permanently classified
+- Contain redacted material
+- Reflect revised public narratives
+- Require elevated clearance
+- Contradict public disclosures
+- Be compartmentalized across multiple authorities
+
+Unauthorized access or redistribution may constitute criminal conduct under Coalition Penal Code.
+
+---
+
+# DIRECTORY STRUCTURE
+
+```text
+BLUF/
+├── BluCor-Strategization-Complex/
+├── BLUF-Legislation/
+├── Legal-Framework/
+├── Public-Statements/
+├── Archives/
+````
+
+---
+
+# BLUCOR-STRATEGIZATION-COMPLEX
+
+Primary classified operational archive containing strategic directives, intelligence operations, continuity programs, and compartmentalized security documentation.
+
+---
+
+## Classified Directives
+
+### NSIC WMD Discovery
+
+**FILE:** `BSC-2025-001_NSIC_WMD_Discovery.md`
+
+**CLEARANCE:** LEVEL 6
+
+Authorization of Warrant B6M following discovery of unauthorized Yellorium diversion and nuclear weapons development activity involving BlaCor and OrCor-linked personnel.
+
+[Open Document](./BluCor-Strategization-Complex/Classified-Directives/BSC-2025-001_NSIC_WMD_Discovery.md)
+
+---
+
+### Treasury Incident
+
+**FILE:** `BSC-2025-002_Treasury_Incident.md`
+
+**CLEARANCE:** LEVEL 4
+
+Internal investigation regarding the GrCor Treasury breach within SpawnTown Administrative District.
+
+[Open Document](./BluCor-Strategization-Complex/Classified-Directives/BSC-2025-002_Treasury_Incident.md)
+
+---
+
+### OrCor Sanctions
+
+**FILE:** `BSC-2025-003_OrCor_Sanctions.md`
+
+**CLEARANCE:** LEVEL 5
+
+Official dissolution and sanction order regarding OrCor following unauthorized technological concealment.
+
+[Open Document](./BluCor-Strategization-Complex/Classified-Directives/BSC-2025-003_OrCor_Sanctions.md)
+
+---
+
+### Operation STARFIRE
+
+**FILE:** `BSC-2025-004_Operation_STARFIRE.md`
+
+**CLEARANCE:** LEVEL 5
+
+Authorization and operational doctrine governing SUR-series orbital systems and the STARFIRE weapons platform.
+
+[Open Document](./BluCor-Strategization-Complex/Classified-Directives/BSC-2025-004_Operation_STARFIRE.md)
+
+---
+
+### OrCor Subsidiaries
+
+**FILE:** `BSC-2025-005_OrCor_Suibstidaries.md`
+
+**CLEARANCE:** LEVEL 6
+
+Compartmentalized continuation framework authorizing deniable coordination with surviving OrCor-linked entities.
+
+[Open Document](./BluCor-Strategization-Complex/Classified-Directives/BSC-2025-005_OrCor_Suibstidaries.md)
+
+---
+
+### Operation Graywatch
+
+**FILE:** `BSC-2026-001_Operation_Graywatch.md`
+
+**CLEARANCE:** LEVEL 5
+
+Directive establishing intelligence retention sectors and surveillance archival systems within all Coalition facilities.
+
+[Open Document](./BluCor-Strategization-Complex/Classified-Directives/BSC-2026-001_Operation_Graywatch.md)
+
+---
+
+# BLUF LEGISLATION
+
+Foundational legal archive governing Coalition authority, continuity doctrine, tribunal systems, criminal law, and strategic operations.
+
+---
+
+## Constitutional Documents
+
+### BULF Constitution
+
+**FILE:** `BULF-Constitution.md`
+
+Primary governing constitutional framework of the BluCor Strategic Coalition.
+
+[Open Document](./BLUF-Legislation/BULF-Constitution.md)
+
+---
+
+### Constitution Appendix I
+
+**FILE:** `BULF-Constitution_Appendix-I.md`
+
+Conditional Bill of Rights and civic guarantees framework.
+
+[Open Document](./BLUF-Legislation/BULF-Constitution_Appendix-I.md)
+
+---
+
+### Constitution Appendix II
+
+**FILE:** `BULF-Constitution_Appendix-II.md`
+
+Continuity Emergency Powers framework.
+
+[Open Document](./BLUF-Legislation/BULF-Constitution_Appendix-II.md)
+
+---
+
+### Constitution Appendix III
+
+**FILE:** `BULF-Constitution_Appendix-III.md`
+
+Territorial, subterranean, and infrastructure sovereignty doctrine.
+
+[Open Document](./BLUF-Legislation/BULF-Constitution_Appendix-III.md)
+
+---
+
+## Articles
+
+### Article I — Founding and Authority
+
+**FILE:** `Article_I_Founding_and_Authority.md`
+
+Defines foundational legitimacy and continuity authority.
+
+[Open Document](./BLUF-Legislation/Articles/Article_I_Founding_and_Authority.md)
+
+---
+
+### Article II — BWARS
+
+**FILE:** `Article_II_BWARS.md`
+
+Defines BWARS authority, jurisdiction, and operational mandate.
+
+[Open Document](./BLUF-Legislation/Articles/Article_II_BWARS.md)
+
+---
+
+### Article III — Conflict Policy
+
+**FILE:** `Article_III_Conflict_Policy.md`
+
+Framework governing hostile engagement, emergency response, and continuity preservation.
+
+[Open Document](./BLUF-Legislation/Articles/Article_III_Conflict_Policy.md)
+
+---
+
+### Article IX — Treasury
+
+**FILE:** `Article_IX_Treasury.md`
+
+Coalition treasury authority and centralized economic governance doctrine.
+
+[Open Document](./BLUF-Legislation/Articles/Article_IX_Treasury.md)
+
+---
+
+### Article XXIII — Classified NSIC Operations
+
+**FILE:** `Article_XXIII_Classified_NSIC_Operations.md`
+
+Legal recognition of compartmentalized intelligence authority.
+
+[Open Document](./BLUF-Legislation/Articles/Article_XXIII_Classified_NSIC_Operations.md)
+
+---
+
+### Article XXV — Weapons Development
+
+**FILE:** `Article_XXV_Weapons_Development.md`
+
+Strategic weapons research and containment doctrine.
+
+[Open Document](./BLUF-Legislation/Articles/Article_XXV_Weapons_Development.md)
+
+---
+
+## Penal Codes
+
+### Criminal Offenses
+
+**FILE:** `Criminal_Offenses.md`
+
+Primary criminal code governing civil, security, infrastructure, and continuity offenses.
+
+[Open Document](./BLUF-Legislation/Penal-Codes/Criminal_Offenses.md)
+
+---
+
+### Economic Violations
+
+**FILE:** `Economic_Violations.md`
+
+Financial crimes, resource violations, and economic sabotage framework.
+
+[Open Document](./BLUF-Legislation/Penal-Codes/Economic_Violations.md)
+
+---
+
+### High Treason Statutes
+
+**FILE:** `High_Treason_Statutes.md`
+
+Defines acts threatening Coalition continuity and legitimacy.
+
+[Open Document](./BLUF-Legislation/Penal-Codes/High_Treason_Statutes.md)
+
+---
+
+### Military Tribunal Acts
+
+**FILE:** `Military_Tribunal_Acts.md`
+
+Framework governing military tribunals and classified judicial proceedings.
+
+[Open Document](./BLUF-Legislation/Penal-Codes/Military_Tribunal_Acts.md)
+
+---
+
+# LEGAL FRAMEWORK
+
+Supplemental regulatory and operational governance documentation.
+
+---
+
+### Hazardous Materials Storage and Containment Act
+
+**FILE:** `20250304-HAZARDOUS_MATERIALS_STORAGE_AND_CONTAINMENT_ACT.md`
+
+Coalition regulatory framework governing radioactive, biological, chemical, and strategic hazard materials.
+
+[Open Document](./Legal-Framework/20250304-HAZARDOUS_MATERIALS_STORAGE_AND_CONTAINMENT_ACT.md)
+
+---
+
+# PUBLIC STATEMENTS
+
+Public-facing Coalition announcements, reports, and infrastructure communications.
+
+---
+
+### ReCor Residential Expansion Initiative
+
+**FILE:** `20250523-ReCor_Residential_Expansion_Initiative.md`
+
+Announcement regarding apartment towers, hotel infrastructure, and eastern housing complex development.
+
+[Open Document](./Public-Statements/20250523-ReCor_Residential_Expansion_Initiative.md)
+
+---
+
+### Treasury Heist Public Report
+
+**FILE:** `20250803-Treasury_Heist_Public_Report.md`
+
+Public disclosure regarding the robbery at the GrCor & Trust Reserve Bank in SpawnTown.
+
+[Open Document](./Public-Statements/20250803-Treasury_Heist_Public_Report.md)
+
+---
+
+# ARCHIVAL NOTICE
+
+Certain records within this archive may:
+
+* Remain classified indefinitely
+* Contain revised public narratives
+* Differ from operational findings
+* Be partially redacted
+* Require elevated clearance authorization
+
+Unauthorized redistribution is prohibited.
+
+---
+
+# CLOSING STATEMENT
+
+The archive exists to preserve continuity through documentation.
+
+Infrastructure may decay.
+Facilities may collapse.
+Personnel may disappear.
+
+Records remain.
+
+---
+
+END OF INDEX
