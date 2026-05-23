@@ -72,7 +72,6 @@
 
 ### 📄 **README.md** (Initial Draft)
 
-```md
 # BluCor Unified Legislative Framework (BLUF) Repository
 
 **Welcome to the official BluCor Unified Legislative Framework (BLUF) repository.**  
@@ -146,4 +145,3 @@ BluCor retains the right to restrict access and **enforce countermeasures** unde
 
 **📌 Repository Maintained by BluCor Strategization Complex (BSC-2)**  
 **🛡️ All Rights Reserved | BLUF Internal Security Mandates Apply**
-```
