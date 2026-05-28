@@ -1,487 +1,153 @@
-# BLUF ARCHIVE INDEX
-## BluCor Unified Legislative Framework
-
-STATUS: ACTIVE  
-LAST UPDATED: 2026-05-23  
-ARCHIVE CLASSIFICATION: MIXED ACCESS  
-ROOT AUTHORITY: BULF / BLUCOR STRATEGIC COALITION
 # BLUF ARCHIVE
+
 ## BluCor Unified Legislative Framework
 
-STATUS: ACTIVE  
-ARCHIVE VERSION: 1.0  
-LAST UPDATED: 2026-05-23  
-PRIMARY GOVERNING AUTHORITY: BLUCOR STRATEGIC COALITION
+STATUS: ACTIVE
+ARCHIVE VERSION: 2.0
+PRIMARY AUTHORITY: BLUCOR STRATEGIC COALITION
+FOUNDATIONAL ERA: 2020-03-21
+CONSTITUTIONAL RATIFICATION: 2026-05-23
 
 ---
 
-# PROJECT OVERVIEW
+# OVERVIEW
 
-The BLUF Archive serves as the centralized legal, historical, administrative, intelligence, and continuity documentation system governing the BluCor Strategic Coalition and its affiliated territories.
+The BLUF Archive is a large-scale fictional governmental, legal, intelligence, infrastructure, and continuity documentation project built around the BluCor Strategic Coalition universe.
 
-The archive exists to preserve operational continuity through structured documentation of:
+The project functions as a living state archive containing:
 
-- Governmental authority
-- Legislative doctrine
-- Penal systems
-- Infrastructure policy
-- Classified operations
-- Intelligence activity
-- Public communications
-- Strategic continuity procedures
+* Constitutional doctrine
+* Penal systems
+* Classified operations
+* Infrastructure regulations
+* Treasury frameworks
+* Warfare doctrine
+* Public communications
+* Strategic continuity procedures
+* Historical records
+* Administrative charters
 
-The archive additionally functions as the official historical and administrative record of Coalition development following the Foundational Era beginning circa 2020-03-21.
-
----
-
-# TERMINOLOGY
+The archive is designed to simulate the internal documentation systems of a highly centralized, continuity-focused state operating across expanding urban and subterranean territories.
 
 ---
 
-## BLUF
-### BluCor Legislative Unified Framework
+# PROJECT GOALS
 
-BLUF refers to the overall archival and governmental documentation ecosystem maintained by the Coalition.
+The BLUF Archive exists to create:
 
-The BLUF archive contains:
+* A believable governmental ecosystem
+* A persistent fictional state structure
+* Realistic bureaucratic documentation
+* Connected infrastructure lore
+* Strategic continuity doctrine
+* Interlinked classified and public narratives
+* Long-form worldbuilding through legislation and records
 
-- Legislative records
-- Classified directives
-- Public statements
-- Penal codes
-- Continuity doctrine
-- Administrative regulations
-- Historical records
-- Strategic infrastructure policy
-
-BLUF serves as the central state archive and continuity documentation system.
+Rather than telling the story directly, the archive tells the story through documents.
 
 ---
 
-## BULF
-### BluCor Unified Legislative Framework
+# CORE ENTITIES
 
-BULF refers specifically to the legal and constitutional governing framework operating within the Coalition.
+The Coalition operates through multiple interconnected organizations and authorities including:
 
-BULF includes:
+| ENTITY | FUNCTION                                  |
+| ------ | ----------------------------------------- |
+| BluCor | Central administrative governance         |
+| BWARS  | Security and enforcement authority        |
+| NSIC   | Classified intelligence operations        |
+| ReCor  | Infrastructure and urban development      |
+| GrCor  | Treasury and reserve management           |
+| WhiCor | Strategic representation and coordination |
+| WXBRO  | High-level continuity oversight           |
 
-- Constitutional authority
-- Articles of governance
-- Penal systems
-- Tribunal frameworks
-- Emergency powers
-- Infrastructure law
-- Security doctrine
-
-Where BLUF represents the archive itself, BULF represents the legal system contained within it.
-
----
-
-## BSC
-### BluCor Strategic Coalition
-
-The BluCor Strategic Coalition functions as the primary governing authority operating throughout recognized Coalition territory.
-
-The BSC oversees:
-
-- Infrastructure
-- Security
-- Intelligence operations
-- Treasury systems
-- Strategic continuity
-- Urban expansion
-- Territorial administration
-- Classified operations
-
-The Coalition was formalized following increasing territorial expansion and infrastructure centralization throughout the Foundational Era.
+Additional compartmentalized authorities may exist beyond public disclosure.
 
 ---
 
-## BWARS
-### Bureau of Warfare, Administration, Regulation, and Security
+# ARCHIVE STRUCTURE
 
-BWARS serves as the Coalition’s primary visible enforcement and stability preservation authority.
+The archive is divided into standardized directive and doctrine series.
 
-Responsibilities include:
+| SERIES | CATEGORY              |
+| ------ | --------------------- |
+| 0000   | Foundational          |
+| 1000   | Governmental          |
+| 2000   | Penal                 |
+| 3000   | Regulatory            |
+| 5000   | Classified Operations |
+| 7000   | Public Affairs        |
+| 9000   | Warfare Doctrine      |
 
-- Civil enforcement
-- Infrastructure security
-- Patrol operations
-- Checkpoint management
-- Riot suppression
-- Emergency response
-- Facility inspections
-- Strategic asset protection
-
-BWARS operates openly throughout Coalition territory.
+Additional archival subdivisions may be added over time.
 
 ---
 
-## NSIC
-### National Strategic Intelligence Command
+# THEMES
 
-NSIC serves as the Coalition’s classified intelligence and continuity preservation authority.
+The archive heavily explores themes involving:
 
-NSIC responsibilities include:
+* Bureaucratic authoritarianism
+* Continuity government
+* Strategic paranoia
+* Urban megastructures
+* Surveillance states
+* Information control
+* Militarized infrastructure
+* Territorial expansion
+* Hidden operations
+* Institutional permanence
 
-- Counterintelligence
-- Classified investigations
-- Information control
-- Surveillance systems
-- Strategic threat assessment
-- Compartmentalized operations
-- Continuity preservation
-- Covert enforcement
+Public-facing records and classified records may intentionally contradict each other.
 
-Many NSIC activities remain permanently classified.
+This is by design.
 
 ---
 
-# HISTORICAL CONTEXT
+# CANONICAL CONTEXT
 
-The Coalition traces its recognized territorial continuity to the Foundational Era beginning circa 2020-03-21.
+The Coalition traces its recognized continuity to the Foundational Era beginning circa 2020-03-21.
 
-As infrastructure expanded, underground systems developed, districts interconnected, and strategic governance centralized, the need for unified legal and operational structure increased substantially.
+As infrastructure expanded and governance centralized, the need for unified continuity doctrine, legal structure, intelligence coordination, and strategic administration increased substantially.
 
-The BULF system emerged circa 2024 as an effort to consolidate:
+The modern BULF constitutional framework was formally ratified on 2026-05-23.
 
-- Territorial governance
-- Security enforcement
-- Infrastructure regulation
-- Economic oversight
-- Intelligence authority
-- Emergency continuity doctrine
+---
 
-The current Constitution was formally ratified on 2026-05-23.
+# NAVIGATION
+
+For the full archival catalog and document navigation system, see:
+
+* [README.md](./BluCor_Unified_Legislative_Framework/README.md)
 
 ---
 
 # ACCESS NOTICE
 
-Certain records contained within this archive may:
+Certain records within the archive may:
 
-- Remain permanently classified
-- Contain redacted material
-- Reflect revised public narratives
-- Require elevated clearance
-- Contradict public disclosures
-- Be compartmentalized across multiple authorities
+* Remain classified
+* Contain redactions
+* Contradict public disclosures
+* Reference sealed operations
+* Be partially incomplete
+* Utilize compartmentalized terminology
 
-Unauthorized access or redistribution may constitute criminal conduct under Coalition Penal Code.
+Not all records are intended to tell the truth equally.
 
----
-
-# DIRECTORY STRUCTURE
-
-```text
-BLUF/
-├── BluCor-Strategization-Complex/
-├── BLUF-Legislation/
-├── Legal-Framework/
-├── Public-Statements/
-├── Archives/
-````
-
----
-
-# BLUCOR-STRATEGIZATION-COMPLEX
-
-Primary classified operational archive containing strategic directives, intelligence operations, continuity programs, and compartmentalized security documentation.
-
----
-
-## Classified Directives
-
-### NSIC WMD Discovery
-
-**FILE:** `BSC-2025-001_NSIC_WMD_Discovery.md`
-
-**CLEARANCE:** LEVEL 6
-
-Authorization of Warrant B6M following discovery of unauthorized Yellorium diversion and nuclear weapons development activity involving BlaCor and OrCor-linked personnel.
-
-[Open Document](./BluCor-Strategization-Complex/Classified-Directives/BSC-2025-001_NSIC_WMD_Discovery.md)
-
----
-
-### Treasury Incident
-
-**FILE:** `BSC-2025-002_Treasury_Incident.md`
-
-**CLEARANCE:** LEVEL 4
-
-Internal investigation regarding the GrCor Treasury breach within SpawnTown Administrative District.
-
-[Open Document](./BluCor-Strategization-Complex/Classified-Directives/BSC-2025-002_Treasury_Incident.md)
-
----
-
-### OrCor Sanctions
-
-**FILE:** `BSC-2025-003_OrCor_Sanctions.md`
-
-**CLEARANCE:** LEVEL 5
-
-Official dissolution and sanction order regarding OrCor following unauthorized technological concealment.
-
-[Open Document](./BluCor-Strategization-Complex/Classified-Directives/BSC-2025-003_OrCor_Sanctions.md)
-
----
-
-### Operation STARFIRE
-
-**FILE:** `BSC-2025-004_Operation_STARFIRE.md`
-
-**CLEARANCE:** LEVEL 5
-
-Authorization and operational doctrine governing SUR-series orbital systems and the STARFIRE weapons platform.
-
-[Open Document](./BluCor-Strategization-Complex/Classified-Directives/BSC-2025-004_Operation_STARFIRE.md)
-
----
-
-### OrCor Subsidiaries
-
-**FILE:** `BSC-2025-005_OrCor_Suibstidaries.md`
-
-**CLEARANCE:** LEVEL 6
-
-Compartmentalized continuation framework authorizing deniable coordination with surviving OrCor-linked entities.
-
-[Open Document](./BluCor-Strategization-Complex/Classified-Directives/BSC-2025-005_OrCor_Suibstidaries.md)
-
----
-
-### Operation Graywatch
-
-**FILE:** `BSC-2026-001_Operation_Graywatch.md`
-
-**CLEARANCE:** LEVEL 5
-
-Directive establishing intelligence retention sectors and surveillance archival systems within all Coalition facilities.
-
-[Open Document](./BluCor-Strategization-Complex/Classified-Directives/BSC-2026-001_Operation_Graywatch.md)
-
----
-
-# BLUF LEGISLATION
-
-Foundational legal archive governing Coalition authority, continuity doctrine, tribunal systems, criminal law, and strategic operations.
-
----
-
-## Constitutional Documents
-
-### BULF Constitution
-
-**FILE:** `BULF-Constitution.md`
-
-Primary governing constitutional framework of the BluCor Strategic Coalition.
-
-[Open Document](./BLUF-Legislation/BULF-Constitution.md)
-
----
-
-### Constitution Appendix I
-
-**FILE:** `BULF-Constitution_Appendix-I.md`
-
-Conditional Bill of Rights and civic guarantees framework.
-
-[Open Document](./BLUF-Legislation/BULF-Constitution_Appendix-I.md)
-
----
-
-### Constitution Appendix II
-
-**FILE:** `BULF-Constitution_Appendix-II.md`
-
-Continuity Emergency Powers framework.
-
-[Open Document](./BLUF-Legislation/BULF-Constitution_Appendix-II.md)
-
----
-
-### Constitution Appendix III
-
-**FILE:** `BULF-Constitution_Appendix-III.md`
-
-Territorial, subterranean, and infrastructure sovereignty doctrine.
-
-[Open Document](./BLUF-Legislation/BULF-Constitution_Appendix-III.md)
-
----
-
-## Articles
-
-### Article I — Founding and Authority
-
-**FILE:** `Article_I_Founding_and_Authority.md`
-
-Defines foundational legitimacy and continuity authority.
-
-[Open Document](./BLUF-Legislation/Articles/Article_I_Founding_and_Authority.md)
-
----
-
-### Article II — BWARS
-
-**FILE:** `Article_II_BWARS.md`
-
-Defines BWARS authority, jurisdiction, and operational mandate.
-
-[Open Document](./BLUF-Legislation/Articles/Article_II_BWARS.md)
-
----
-
-### Article III — Conflict Policy
-
-**FILE:** `Article_III_Conflict_Policy.md`
-
-Framework governing hostile engagement, emergency response, and continuity preservation.
-
-[Open Document](./BLUF-Legislation/Articles/Article_III_Conflict_Policy.md)
-
----
-
-### Article IX — Treasury
-
-**FILE:** `Article_IX_Treasury.md`
-
-Coalition treasury authority and centralized economic governance doctrine.
-
-[Open Document](./BLUF-Legislation/Articles/Article_IX_Treasury.md)
-
----
-
-### Article XXIII — Classified NSIC Operations
-
-**FILE:** `Article_XXIII_Classified_NSIC_Operations.md`
-
-Legal recognition of compartmentalized intelligence authority.
-
-[Open Document](./BLUF-Legislation/Articles/Article_XXIII_Classified_NSIC_Operations.md)
-
----
-
-### Article XXV — Weapons Development
-
-**FILE:** `Article_XXV_Weapons_Development.md`
-
-Strategic weapons research and containment doctrine.
-
-[Open Document](./BLUF-Legislation/Articles/Article_XXV_Weapons_Development.md)
-
----
-
-## Penal Codes
-
-### Criminal Offenses
-
-**FILE:** `Criminal_Offenses.md`
-
-Primary criminal code governing civil, security, infrastructure, and continuity offenses.
-
-[Open Document](./BLUF-Legislation/Penal-Codes/Criminal_Offenses.md)
-
----
-
-### Economic Violations
-
-**FILE:** `Economic_Violations.md`
-
-Financial crimes, resource violations, and economic sabotage framework.
-
-[Open Document](./BLUF-Legislation/Penal-Codes/Economic_Violations.md)
-
----
-
-### High Treason Statutes
-
-**FILE:** `High_Treason_Statutes.md`
-
-Defines acts threatening Coalition continuity and legitimacy.
-
-[Open Document](./BLUF-Legislation/Penal-Codes/High_Treason_Statutes.md)
-
----
-
-### Military Tribunal Acts
-
-**FILE:** `Military_Tribunal_Acts.md`
-
-Framework governing military tribunals and classified judicial proceedings.
-
-[Open Document](./BLUF-Legislation/Penal-Codes/Military_Tribunal_Acts.md)
-
----
-
-# LEGAL FRAMEWORK
-
-Supplemental regulatory and operational governance documentation.
-
----
-
-### Hazardous Materials Storage and Containment Act
-
-**FILE:** `20250304-HAZARDOUS_MATERIALS_STORAGE_AND_CONTAINMENT_ACT.md`
-
-Coalition regulatory framework governing radioactive, biological, chemical, and strategic hazard materials.
-
-[Open Document](./Legal-Framework/20250304-HAZARDOUS_MATERIALS_STORAGE_AND_CONTAINMENT_ACT.md)
-
----
-
-# PUBLIC STATEMENTS
-
-Public-facing Coalition announcements, reports, and infrastructure communications.
-
----
-
-### ReCor Residential Expansion Initiative
-
-**FILE:** `20250523-ReCor_Residential_Expansion_Initiative.md`
-
-Announcement regarding apartment towers, hotel infrastructure, and eastern housing complex development.
-
-[Open Document](./Public-Statements/20250523-ReCor_Residential_Expansion_Initiative.md)
-
----
-
-### Treasury Heist Public Report
-
-**FILE:** `20250803-Treasury_Heist_Public_Report.md`
-
-Public disclosure regarding the robbery at the GrCor & Trust Reserve Bank in SpawnTown.
-
-[Open Document](./Public-Statements/20250803-Treasury_Heist_Public_Report.md)
-
----
-
-# ARCHIVAL NOTICE
-
-Certain records within this archive may:
-
-* Remain classified indefinitely
-* Contain revised public narratives
-* Differ from operational findings
-* Be partially redacted
-* Require elevated clearance authorization
-
-Unauthorized redistribution is prohibited.
+Some records are intended to preserve continuity.
 
 ---
 
 # CLOSING STATEMENT
 
-The archive exists to preserve continuity through documentation.
+Infrastructure preserves territory.
+Law preserves order.
+Doctrine preserves continuity.
+Records preserve authority after memory fails.
 
-Infrastructure may decay.
-Facilities may collapse.
-Personnel may disappear.
-
-Records remain.
+The archive exists because civilizations collapse faster when they forget how they were built.
 
 ---
 
-END OF INDEX
+END OF README
