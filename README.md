@@ -118,14 +118,6 @@ The modern BULF constitutional framework was formally ratified on 2026-05-23.
 
 ---
 
-# NAVIGATION
-
-For the full archival catalog and document navigation system, see:
-
-* [README.md](./BluCor_Unified_Legislative_Framework/Series/README.md)
-
----
-
 # ACCESS NOTICE
 
 Certain records within the archive may:

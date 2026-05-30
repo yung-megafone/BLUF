@@ -47,11 +47,12 @@ STATUS: `EXECUTED`
 
 # PARTIES
 
-|Role|Entity|
-|---|---|
-|Seller|LiCorp Sorting & Storage Solutions|
-|Buyer|PurCor Construction Authority|
-|Treasury Observer|BluCor Treasury Authority|
+| Role              | Entity                             |
+| ----------------- | ---------------------------------- |
+| Seller            | LiCorp Sorting & Storage Solutions |
+| Buyer             | State Treasury Authority           |
+| Treasury Observer | BluCor Treasury Authority          |
+|                   |                                    |
 
 ---
 
@@ -163,9 +164,9 @@ False, manipulated, or counterfeit assets shall:
 
 **LiCorp Sorting & Storage Solutions (Seller):** _________________________
 
-**PurCor Construction Authority (Buyer):** _________________________
+**State Treasury Authority (Buyer):** _________________________
 
-**Treasury Observer (GrCor Escrow):** _________________________
+**Treasury Observer (BluCor Escrow):** _________________________
 
 ---
 

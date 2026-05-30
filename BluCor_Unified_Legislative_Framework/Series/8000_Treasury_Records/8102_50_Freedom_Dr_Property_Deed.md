@@ -20,9 +20,9 @@ tags:
   - safhaz
   - freedom_dr
 related:
-  - "[[3207_SafHaz_Property_Acquisition_Request]]"
-  - "[[3208_Freedom_Dr_Acquisition_Authorization]]"
-  - "[[3210_Freedom_Dr_Bill_of_Sale]]"
+  - "[[8107_SafHaz_Property_Acquisition_Request]]"
+  - "[[8108_Freedom_Dr_Acquisition_Authorization]]"
+  - "[[8110_Freedom_Dr_Bill_of_Sale]]"
 aliases:
   - 50 Freedom Dr Property Deed
 issued: 2026-05-30

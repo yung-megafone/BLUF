@@ -168,3 +168,5 @@ And start asking whether the archive itself was designed to teach you how little
 ---
 
 END OF ANALYSIS
+
+[[REDNET_BLOG_HOME|RedNet Home]]

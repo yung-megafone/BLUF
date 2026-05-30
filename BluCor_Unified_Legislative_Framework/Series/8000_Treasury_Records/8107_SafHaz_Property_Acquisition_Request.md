@@ -1,9 +1,9 @@
 ---
-title: 3207_SafHaz_Property_Acquisition_Request
-series: "3000"
+title: 8107_SafHaz_Property_Acquisition_Request
+series: "8000"
 category: regulatory
 classification: L1
-status: UNDER REVIEW
+status: APPROVED
 authority:
   - SafHaz
   - Treasury Authority
@@ -32,7 +32,7 @@ issued: 2026-05-29
 last_reviewed: 2026-05-29
 ---
 
-# DIRECTIVE 3207
+# DIRECTIVE 8107
 
 ## SAFHAZ PROPERTY ACQUISITION REQUEST
 

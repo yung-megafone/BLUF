@@ -11,14 +11,10 @@
             "id": "f6c8146d94efa52f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World-Wide Web/RedNet.rc/REDNET_BLOG_HOME.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "REDNET_BLOG_HOME"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 326.5
   },
   "right": {
     "id": "4a89cfb57d8f7a24",
@@ -185,21 +181,36 @@
   },
   "active": "f6c8146d94efa52f",
   "lastOpenFiles": [
-    "World-Wide Web/RedNet.rc/Understanding_BLUF_Classification_and_Hidden_Programs.md",
-    "README.md",
+    "World-Wide Web/BULF.bc/BWARS/Continuity_Black_Dashboard.md",
+    "World-Wide Web/RedNet.rc/RedNet_40_Freedom_Dr_Imagery_Watch.md",
     "World-Wide Web/RedNet.rc/REDNET_BLOG_HOME.md",
+    "World-Wide Web/RedNet.rc/RedNet_Operation_Hellmarch_Leak.md",
+    "World-Wide Web/RedNet.rc/Understanding_BLUF_Classification_and_Hidden_Programs.md",
+    "BluCor_Unified_Legislative_Framework/_templates/Header_Warnings.md",
+    "BluCor_Unified_Legislative_Framework/_templates/BLUF_Metadata_Template.md",
+    "README.md",
+    "BluCor_Unified_Legislative_Framework/Series/0000_Foundational/0006_Coalition_Continuity_Charter.md",
+    "BluCor_Unified_Legislative_Framework/Series/8000_Treasury_Records/8114_ReCor_Freedom_Dr_Renovation_Cost_Assessment.md",
+    "World-Wide Web/RedNet.rc/40-freedom-dr-watch.html",
+    "World-Wide Web/BULF.bc/BSC/GrCor_Dashboard.md",
+    "World-Wide Web/BULF.bc/Agency_Dashboard_Index.md",
+    "World-Wide Web/BULF.bc/Classification_Index.md",
     "World-Wide Web/BULF.bc/Public_Release_Index.md",
     "World-Wide Web/BULF.bc/README.md",
-    "World-Wide Web/BULF.bc/Agency_Dashboard_Index.md",
-    "World-Wide Web/RedNet.rc/RedNet_Operation_Hellmarch_Leak.md",
-    "Series/10000_Judicial/10112_Public_Communique_Willugh_Treason_Conviction.md",
-    "Series/2000_Penal/2075_High_Severity_Crimes.md",
-    "Series/2000_Penal/2080_Combinations_of_Crimes.md",
-    "Series/2000_Penal/2073_Property_and_Land_Crimes.md",
-    "Series/2000_Penal/2000_BULF_Punitive_Articles.md",
-    "Hubs/BLUF_MASTER_INDEX.md",
-    "_templates/Header_Warnings.md",
-    "_templates/BLUF_Metadata_Template.md",
+    "World-Wide Web/BULF.bc/BWARS/BWARS_Dashboard.md",
+    "World-Wide Web/BULF.bc/By_Classification/L1_Document_Dashboard.md",
+    "World-Wide Web/BULF.bc/Classification_Dashboard.md",
+    "World-Wide Web/BULF.bc/BWARS",
+    "World-Wide Web/BULF.bc/By_Classification/L6_Document_Dashboard.md",
+    "World-Wide Web/BULF.bc/BSC",
+    "World-Wide Web/BULF.bc/By_Classification",
+    "BluCor_Unified_Legislative_Framework/Series/5000_Classified/5105_NSIC_WMD_Discovery.md",
+    "World-Wide Web/BULF.bc/By_Classification/L3_Document_Dashboard.md",
+    "World-Wide Web/BULF.bc/By_Classification/L2_Document_Dashboard.md",
+    "BluCor_Unified_Legislative_Framework/Series/3000_Regulatory/3114_BluCor_Reactor_Authorization_Approval.md",
+    "World-Wide Web/BULF.bc/By_Classification/L5_Document_Dashboard.md",
+    "World-Wide Web/BULF.bc/By_Classification/L4_Document_Dashboard.md",
+    "BluCor_Unified_Legislative_Framework/Series/3000_Regulatory/3113_LiCor_Onsite_Reactor_Authorization_Request.md",
     "_templates"
   ]
 }

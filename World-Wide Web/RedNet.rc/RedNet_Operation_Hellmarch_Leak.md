@@ -212,3 +212,5 @@ If this story disappears, assume it was closer to true than they wanted.
 ---
 
 END OF DISPATCH
+
+[[REDNET_BLOG_HOME|RedNet Home]]

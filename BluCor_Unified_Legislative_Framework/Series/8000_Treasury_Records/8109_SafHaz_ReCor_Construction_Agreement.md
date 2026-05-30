@@ -1,9 +1,9 @@
 ---
-title: 3209_SafHaz_ReCor_Construction_Agreement
-series: "3000"
+title: 8109_SafHaz_ReCor_Construction_Agreement
+series: "8000"
 category: regulatory
 classification: L1
-status: ACTIVE
+status: SIGNED
 authority:
   - SafHaz
   - ReCor
@@ -22,8 +22,8 @@ tags:
   - contractual
   - historical_preservation
 related:
-  - "[[3207_SafHaz_Property_Acquisition_Request]]"
-  - "[[3208_Freedom_Dr_Acquisition_Authorization]]"
+  - "[[8107_SafHaz_Property_Acquisition_Request]]"
+  - "[[8108_Freedom_Dr_Acquisition_Authorization]]"
   - "[[1300_Treasury_Authority_Charter]]"
   - "[[1105_ReCor_Infrastructure_Charter]]"
 aliases:
@@ -33,7 +33,7 @@ issued: 2026-05-29
 last_reviewed: 2026-05-29
 ---
 
-# DIRECTIVE 3209
+# DIRECTIVE 8109
 
 ## SAFHAZ / RECOR CONSTRUCTION AGREEMENT
 
@@ -50,7 +50,7 @@ AUTHORIZED BY: `INFRASTRUCTURE REVIEW BOARD`
 
 This agreement establishes the formal construction and redevelopment arrangement between SafHaz and [[1105_ReCor_Infrastructure_Charter|ReCor]] regarding the approved reconstruction and development of Lots 50 and 60 Freedom Dr.
 
-The agreement authorizes ReCor to conduct demolition, remediation, engineering, and construction operations associated with the proposed administrative and office complex approved under [[3208_Freedom_Dr_Acquisition_Authorization|Directive 3208]].
+The agreement authorizes ReCor to conduct demolition, remediation, engineering, and construction operations associated with the proposed administrative and office complex approved under [[8108_Freedom_Dr_Acquisition_Authorization|Directive 3208]].
 
 ---
 

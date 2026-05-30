@@ -1,9 +1,9 @@
 ---
-title: 3210_Freedom_Dr_Bill_of_Sale
-series: "3000"
+title: 8110_Freedom_Dr_Bill_of_Sale
+series: "8000"
 category: regulatory
 classification: L1
-status: Pending_Payment
+status: APPROVED
 authority:
   - Treasury Authority
   - SafHaz
@@ -21,9 +21,9 @@ tags:
   - taxation
   - bill_of_sale
 related:
-  - "[[3207_SafHaz_Property_Acquisition_Request]]"
-  - "[[3208_Freedom_Dr_Acquisition_Authorization]]"
-  - "[[3209_SafHaz_ReCor_Construction_Agreement]]"
+  - "[[8107_SafHaz_Property_Acquisition_Request]]"
+  - "[[8108_Freedom_Dr_Acquisition_Authorization]]"
+  - "[[8109_SafHaz_ReCor_Construction_Agreement]]"
   - "[[1300_Treasury_Authority_Charter]]"
 aliases:
   - Freedom Dr Bill of Sale
@@ -31,7 +31,7 @@ aliases:
 issued: 2026-05-29
 last_reviewed: 2026-05-29
 ---
-# DIRECTIVE 3210
+# DIRECTIVE 8110
 
 ## FREEDOM DR BILL OF SALE
 

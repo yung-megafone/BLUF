@@ -1,6 +1,6 @@
 ---
-title: 3208_Freedom_Dr_Acquisition_Authorization
-series: "3000"
+title: 8108_Freedom_Dr_Acquisition_Authorization
+series: "8000"
 category: regulatory
 classification: L1
 status: APPROVED
@@ -21,7 +21,7 @@ tags:
   - infrastructure
   - architecture
 related:
-  - "[[3207_SafHaz_Property_Acquisition_Request]]"
+  - "[[8107_SafHaz_Property_Acquisition_Request]]"
   - "[[1300_Treasury_Authority_Charter]]"
   - "[[1105_ReCor_Infrastructure_Charter]]"
 aliases:
@@ -31,7 +31,7 @@ issued: 2026-05-29
 last_reviewed: 2026-05-29
 ---
 
-# DIRECTIVE 3208
+# DIRECTIVE 8108
 
 ## FREEDOM DR ACQUISITION AUTHORIZATION
 
