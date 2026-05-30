@@ -1,0 +1,41 @@
+
+/* BLUF Dynamic Dashboard Styling */
+
+.theme-dark {
+  --bluf-accent: #7aa2ff;
+  --bluf-danger: #ff5c72;
+  --bluf-good: #55e6a5;
+  --bluf-warn: #ffcc66;
+}
+
+.markdown-preview-view {
+  background: #07090d;
+}
+
+.bluf-panel {
+  border: 1px solid #253247;
+  border-radius: 12px;
+  padding: 14px;
+  background: rgba(20,24,32,0.85);
+  margin-bottom: 18px;
+}
+
+.bluf-classified {
+  border-left: 4px solid var(--bluf-danger);
+}
+
+.bluf-public {
+  border-left: 4px solid var(--bluf-good);
+}
+
+.bluf-warning {
+  color: var(--bluf-warn);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.bluf-title {
+  color: var(--bluf-accent);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}

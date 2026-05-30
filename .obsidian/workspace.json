@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "4b7bf0137791bbb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fb07c17ac01f239",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6c8146d94efa52f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World-Wide Web/RedNet.rc/REDNET_BLOG_HOME.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "REDNET_BLOG_HOME"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c5e9ebc50c78053",
+    "type": "split",
+    "children": [
+      {
+        "id": "86c5368fd7bfe8c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "848ed0b83b72c222",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c7a6df836e4f4918",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "be370ec22261c625",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4a89cfb57d8f7a24",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c124254936053ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "993040ebe0ebeb50",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "World-Wide Web/RedNet.rc/REDNET_BLOG_HOME.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for REDNET_BLOG_HOME"
+            }
+          },
+          {
+            "id": "eafacd5db1dd642a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "World-Wide Web/RedNet.rc/REDNET_BLOG_HOME.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from REDNET_BLOG_HOME"
+            }
+          },
+          {
+            "id": "224b3e8f3bba9713",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1d979c6cf9cb2c6a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "15bb4b21dbd61d87",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "World-Wide Web/RedNet.rc/REDNET_BLOG_HOME.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of REDNET_BLOG_HOME"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f6c8146d94efa52f",
+  "lastOpenFiles": [
+    "World-Wide Web/RedNet.rc/Understanding_BLUF_Classification_and_Hidden_Programs.md",
+    "README.md",
+    "World-Wide Web/RedNet.rc/REDNET_BLOG_HOME.md",
+    "World-Wide Web/BULF.bc/Public_Release_Index.md",
+    "World-Wide Web/BULF.bc/README.md",
+    "World-Wide Web/BULF.bc/Agency_Dashboard_Index.md",
+    "World-Wide Web/RedNet.rc/RedNet_Operation_Hellmarch_Leak.md",
+    "Series/10000_Judicial/10112_Public_Communique_Willugh_Treason_Conviction.md",
+    "Series/2000_Penal/2075_High_Severity_Crimes.md",
+    "Series/2000_Penal/2080_Combinations_of_Crimes.md",
+    "Series/2000_Penal/2073_Property_and_Land_Crimes.md",
+    "Series/2000_Penal/2000_BULF_Punitive_Articles.md",
+    "Hubs/BLUF_MASTER_INDEX.md",
+    "_templates/Header_Warnings.md",
+    "_templates/BLUF_Metadata_Template.md",
+    "_templates"
+  ]
+}
