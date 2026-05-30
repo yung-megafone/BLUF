@@ -10,7 +10,7 @@ authority:
 authorized_by:
   - High Table
 record_status: restricted
-indexable: true
+indexable: false
 tags:
   - warfare
 related:
@@ -46,7 +46,7 @@ Public existence of this directive is denied.
 
 # PURPOSE
 
-[[9007_NOX_ULTIMA|NOX ULTIMA]] establishes final-contingency doctrine for circumstances in which the [[1106_BluCor_Central_Administration_Charter|BluCor]] Strategic Coalition faces irreversible destruction, hostile occupation, strategic collapse, or loss of sovereign continuity.
+[[9007_NOX_ULTIMA|NOX ULTIMA]] establishes final-contingency doctrine for circumstances in which the [[1102_BluCor_Administration_Charter|BluCor]] Strategic Coalition faces irreversible destruction, hostile occupation, strategic collapse, or loss of sovereign continuity.
 
 The directive exists to ensure that no hostile power, rogue faction, invader, successor regime, or internal usurper inherits Coalition territory, infrastructure, weapons systems, reserves, archives, or strategic capabilities intact.
 
@@ -115,7 +115,7 @@ Upon activation, priority denial targets may include:
 - Orbital uplink systems
 - Strategic archives
 - [[1101_BWARS_Authority_Doctrine|BWARS]] headquarters
-- [[1102_NSIC_Operational_Authority|NSIC]] facilities
+- [[1112_NSIC_Operational_Authority|NSIC]] facilities
 - Power plants
 - Rail networks
 - Underground corridors
@@ -212,6 +212,6 @@ END OF DIRECTIVE
 
 # LINKED REFERENCES
 
-- [[1105_WXBRO_Strategic_Oversight]]
+- [[1150_WXBRO_Strategic_Oversight]]
 
 END OF LINKED REFERENCES

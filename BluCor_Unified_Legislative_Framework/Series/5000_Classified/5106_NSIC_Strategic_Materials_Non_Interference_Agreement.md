@@ -15,7 +15,7 @@ tags:
   - classified
   - nsic
 related:
-  - "[[1102_NSIC_Operational_Authority]]"
+  - "[[1112_NSIC_Operational_Authority]]"
   - "[[3101_Hazardous_Materials_Containment]]"
 aliases:
   - NSIC Strategic Materials Non Interference Agreement
@@ -36,13 +36,13 @@ AUTHORIZED BY: `HIGH TABLE`
 
 # PURPOSE
 
-This directive establishes strategic coexistence procedures governing [[1102_NSIC_Operational_Authority|NSIC]]-controlled radioactive and nuclear-capable materials.
+This directive establishes strategic coexistence procedures governing [[1112_NSIC_Operational_Authority|NSIC]]-controlled radioactive and nuclear-capable materials.
 
 ---
 
 # SECTION I — NON-INTERFERENCE CONDITIONS
 
-The Coalition agrees not to interfere with designated [[1102_NSIC_Operational_Authority|NSIC]] material operations provided:
+The Coalition agrees not to interfere with designated [[1112_NSIC_Operational_Authority|NSIC]] material operations provided:
 
 - Materials remain within authorized territory
 - Fallout does not exceed containment thresholds
@@ -53,7 +53,7 @@ The Coalition agrees not to interfere with designated [[1102_NSIC_Operational_Au
 
 # SECTION II — MATERIAL SHARING
 
-[[1102_NSIC_Operational_Authority|NSIC]] shall provide the Coalition with:
+[[1112_NSIC_Operational_Authority|NSIC]] shall provide the Coalition with:
 
 - Energy surplus
 - Reactor byproducts
@@ -66,7 +66,7 @@ Transferred materials become Coalition property.
 
 # SECTION III — TERRITORIAL LIMITS
 
-[[1102_NSIC_Operational_Authority|NSIC]] activity remains restricted to approved containment sectors.
+[[1112_NSIC_Operational_Authority|NSIC]] activity remains restricted to approved containment sectors.
 
 Unauthorized expansion voids protections.
 
@@ -117,8 +117,8 @@ END OF DIRECTIVE
 # LINKED REFERENCES
 
 - [[0003_Continuity_Emergency_Powers]]
-- [[1102_NSIC_Operational_Authority]]
-- [[1105_WXBRO_Strategic_Oversight]]
+- [[1112_NSIC_Operational_Authority]]
+- [[1150_WXBRO_Strategic_Oversight]]
 - [[9005_Orbital_Deterrence_Integration]]
 
 END OF LINKED REFERENCES

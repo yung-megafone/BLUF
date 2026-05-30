@@ -18,6 +18,8 @@ related:
 aliases:
   - OrCor Sanctions
 declassified_on: 2025-05-26
+historical_classification: L2
+declassified_to: L0
 ---
 
 # DIRECTIVE 5102
@@ -26,10 +28,16 @@ declassified_on: 2025-05-26
 
 ### Classified Operations Series
 
-CLASSIFICATION: ~~L4~~ L0`  
-STATUS: `ACTIVE`  
+CLASSIFICATION: `L0 / DECLASSIFIED`  
+PREVIOUS CLASSIFICATION: `L2 / INTERNAL STRATEGIC`  
+STATUS: `DECLASSIFIED`  
 AUTHORITY: `BLUCOR  
 AUTHORIZED BY: `HIGH TABLE`
+
+> [!success] DECLASSIFICATION NOTICE
+> Portions of this archive were previously restricted under higher continuity classifications.
+>
+> Select information has since been approved for controlled public release.
 
 ---
 
@@ -115,8 +123,8 @@ END OF DIRECTIVE
 # LINKED REFERENCES
 
 - [[0003_Continuity_Emergency_Powers]]
-- [[1102_NSIC_Operational_Authority]]
-- [[1105_WXBRO_Strategic_Oversight]]
+- [[1112_NSIC_Operational_Authority]]
+- [[1150_WXBRO_Strategic_Oversight]]
 - [[2103_High_Treason_Statutes]]
 - [[5103_OrCor_Subsidiaries]]
 

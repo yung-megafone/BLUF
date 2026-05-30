@@ -52,9 +52,9 @@ The High Table may declare a Continuity Emergency when ordinary governance is in
 
 ## §1.2 Emergency Recommendation
 
-[[1101_BWARS_Authority_Doctrine|BWARS]], [[1102_NSIC_Operational_Authority|NSIC]], [[1105_WXBRO_Strategic_Oversight|WXBRO]], [[1103_Treasury_Authority_Charter|Treasury Authority]], or Regional Command may recommend emergency declaration.
+[[1101_BWARS_Authority_Doctrine|BWARS]], [[1112_NSIC_Operational_Authority|NSIC]], [[1150_WXBRO_Strategic_Oversight|WXBRO]], [[1300_Treasury_Authority_Charter|Treasury Authority]], or Regional Command may recommend emergency declaration.
 
-[[1102_NSIC_Operational_Authority|NSIC]] may issue temporary sealed emergency recommendations where classified threats exist.
+[[1112_NSIC_Operational_Authority|NSIC]] may issue temporary sealed emergency recommendations where classified threats exist.
 
 ---
 
@@ -160,8 +160,8 @@ END OF DIRECTIVE
 
 - [[0001_BULF_Constitution]]
 - [[1101_BWARS_Authority_Doctrine]]
-- [[1102_NSIC_Operational_Authority]]
-- [[1103_Treasury_Authority_Charter]]
-- [[1105_WXBRO_Strategic_Oversight]]
+- [[1112_NSIC_Operational_Authority]]
+- [[1300_Treasury_Authority_Charter]]
+- [[1150_WXBRO_Strategic_Oversight]]
 
 END OF LINKED REFERENCES

@@ -1,14 +1,13 @@
 ---
-title: "BLUF_MASTER_INDEX"
-series: "meta"
-category: "general"
-classification: "L1"
+title: BLUF_MASTER_INDEX
+series: meta
+category: general
+classification: L0
 tags:
   - BLUF
   - general
-  - l1
+  - l0
 ---
-
 # BLUF MASTER INDEX
 ## BluCor Unified Legislative Framework Archive
 
@@ -102,13 +101,13 @@ Primary constitutional and continuity doctrine governing all Coalition authoriti
 Administrative authorities, agency charters, and governance doctrine.
 
 - [[1101_BWARS_Authority_Doctrine|1101 — BWARS Authority Doctrine]] `[L1][ACTIVE]`
-- [[1102_NSIC_Operational_Authority|1102 — NSIC Operational Authority]] `[L3][RESTRICTED]`
-- [[1103_Treasury_Authority_Charter|1103 — Treasury Authority Charter]] `[L1][ACTIVE]`
-- [[1104_ReCor_Infrastructure_Charter|1104 — ReCor Infrastructure Charter]] `[L1][ACTIVE]`
-- [[1105_WXBRO_Strategic_Oversight|1105 — WXBRO Strategic Oversight]] `[L4][RESTRICTED]`
-- [[1106_BluCor_Central_Administration_Charter|1106 — BluCor Central Administration Charter]] `[L1][ACTIVE]`
-- [[1107_GrCor_Reserve_and_Finance_Charter|1107 — GrCor Reserve and Finance Charter]] `[L2][ACTIVE]`
-- [[1108_WhiCor_Representation_and_Command_Charter|1108 — WhiCor Representation and Command Charter]] `[L2][ACTIVE]`
+- [[1112_NSIC_Operational_Authority|1102 — NSIC Operational Authority]] `[L3][RESTRICTED]`
+- [[1300_Treasury_Authority_Charter|1103 — Treasury Authority Charter]] `[L1][ACTIVE]`
+- [[1105_ReCor_Infrastructure_Charter|1104 — ReCor Infrastructure Charter]] `[L1][ACTIVE]`
+- [[1150_WXBRO_Strategic_Oversight|1105 — WXBRO Strategic Oversight]] `[L4][RESTRICTED]`
+- [[1102_BluCor_Administration_Charter|1106 — BluCor Central Administration Charter]] `[L1][ACTIVE]`
+- [[1302_GrCor_Reserve_and_Finance_Charter|1107 — GrCor Reserve and Finance Charter]] `[L2][ACTIVE]`
+- [[1104_WhiCor_Aerospace_Development_Charter|1108 — WhiCor Representation and Command Charter]] `[L2][ACTIVE]`
 
 ---
 

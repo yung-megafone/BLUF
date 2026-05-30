@@ -36,7 +36,7 @@ AUTHORIZED BY: `HIGH TABLE`
 
 # PURPOSE
 
-This directive records the historical legitimacy, foundational authority, and continuity basis of the [[1106_BluCor_Central_Administration_Charter|BluCor]] Strategic Coalition.
+This directive records the historical legitimacy, foundational authority, and continuity basis of the [[1102_BluCor_Administration_Charter|BluCor]] Strategic Coalition.
 
 ---
 
@@ -85,7 +85,7 @@ The Coalition emerged to unify:
 
 # SECTION III — ESTABLISHMENT OF BULF
 
-The [[1106_BluCor_Central_Administration_Charter|BluCor]] Unified Legislative Framework was established circa 2024 to consolidate legal authority.
+The [[1102_BluCor_Administration_Charter|BluCor]] Unified Legislative Framework was established circa 2024 to consolidate legal authority.
 
 BULF was created to resolve:
 
@@ -157,6 +157,6 @@ END OF DIRECTIVE
 
 # LINKED REFERENCES
 
-- [[1106_BluCor_Central_Administration_Charter]]
+- [[1102_BluCor_Administration_Charter]]
 
 END OF LINKED REFERENCES

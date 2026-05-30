@@ -2,7 +2,7 @@
 title: 2102_Economic_Violations
 series: 2000
 category: penal
-classification: L1
+classification: L0
 status: ACTIVE
 authority:
   - BluCor
@@ -15,8 +15,8 @@ tags:
   - penal
   - law
 related:
-  - "[[1103_Treasury_Authority_Charter]]"
-  - "[[1107_GrCor_Reserve_and_Finance_Charter]]"
+  - "[[1300_Treasury_Authority_Charter]]"
+  - "[[1302_GrCor_Reserve_and_Finance_Charter]]"
   - "[[7101_Treasury_Incident_Public_Report]]"
 aliases:
   - Economic Violations
@@ -28,7 +28,7 @@ aliases:
 
 ### Penal and Judicial Series
 
-CLASSIFICATION: `L1`  
+CLASSIFICATION: `L0  
 STATUS: `ACTIVE`  
 AUTHORITY: `BLUCOR / BWARS`  
 AUTHORIZED BY: `HIGH TABLE`
@@ -88,7 +88,7 @@ shall receive enhanced penalties.
 
 # SECTION IV — ENFORCEMENT
 
-[[1103_Treasury_Authority_Charter|Treasury Authority]] and [[1101_BWARS_Authority_Doctrine|BWARS]] may:
+[[1300_Treasury_Authority_Charter|Treasury Authority]] and [[1101_BWARS_Authority_Doctrine|BWARS]] may:
 
 - Freeze assets
 - Seize materials
@@ -123,6 +123,6 @@ END OF DIRECTIVE
 
 - [[0001_BULF_Constitution]]
 - [[1101_BWARS_Authority_Doctrine]]
-- [[1103_Treasury_Authority_Charter]]
+- [[1300_Treasury_Authority_Charter]]
 
 END OF LINKED REFERENCES

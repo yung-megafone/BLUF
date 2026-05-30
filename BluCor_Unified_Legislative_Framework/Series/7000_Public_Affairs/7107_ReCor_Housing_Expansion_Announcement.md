@@ -14,7 +14,7 @@ tags:
   - public_affairs
   - public
 related:
-  - "[[1104_ReCor_Infrastructure_Charter]]"
+  - "[[1105_ReCor_Infrastructure_Charter]]"
   - "[[3102_Residential_Surveillance_Standards]]"
 aliases:
   - ReCor Housing Expansion Announcement
@@ -35,7 +35,7 @@ AUTHORIZED BY: `PUBLIC AFFAIRS BUREAU`
 
 # OFFICIAL ANNOUNCEMENT
 
-The [[1106_BluCor_Central_Administration_Charter|BluCor]] Strategic Coalition is pleased to announce the completion of several residential and civic lodging developments constructed by [[1104_ReCor_Infrastructure_Charter|ReCor]] as part of the Coalition Urban Stability Expansion Program.
+The [[1102_BluCor_Administration_Charter|BluCor]] Strategic Coalition is pleased to announce the completion of several residential and civic lodging developments constructed by [[1105_ReCor_Infrastructure_Charter|ReCor]] as part of the Coalition Urban Stability Expansion Program.
 
 These projects represent continued investment in housing availability, worker accommodation, district growth, and long-term population stability.
 
@@ -43,7 +43,7 @@ These projects represent continued investment in housing availability, worker ac
 
 # COMPLETED PROJECTS
 
-[[1104_ReCor_Infrastructure_Charter|ReCor]] has completed the following major developments:
+[[1105_ReCor_Infrastructure_Charter|ReCor]] has completed the following major developments:
 
 - Central apartment tower
 - Civic hotel facility
@@ -87,7 +87,7 @@ The facility is expected to support both commercial activity and administrative 
 
 # EASTERN HOUSING COMPLEX
 
-Across town to the east, [[1104_ReCor_Infrastructure_Charter|ReCor]] has completed a housing complex designed to support population distribution and future district expansion.
+Across town to the east, [[1105_ReCor_Infrastructure_Charter|ReCor]] has completed a housing complex designed to support population distribution and future district expansion.
 
 The development includes:
 
@@ -136,7 +136,7 @@ Residents are reminded that safe housing requires lawful occupancy and cooperati
 
 # RECOR STATEMENT
 
-[[1104_ReCor_Infrastructure_Charter|ReCor]] representatives emphasized that these developments were built with durability, density, and continuity in mind.
+[[1105_ReCor_Infrastructure_Charter|ReCor]] representatives emphasized that these developments were built with durability, density, and continuity in mind.
 
 The Coalition does not build for the present alone.
 
@@ -160,7 +160,7 @@ END OF ANNOUNCEMENT
 
 # LINKED REFERENCES
 
-- [[1104_ReCor_Infrastructure_Charter]]
-- [[1106_BluCor_Central_Administration_Charter]]
+- [[1105_ReCor_Infrastructure_Charter]]
+- [[1102_BluCor_Administration_Charter]]
 
 END OF LINKED REFERENCES

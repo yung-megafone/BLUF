@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BLUF Access Terminal</title>
+  <link rel="stylesheet" href="assets/bluf-portal.css" />
+</head>
+<body>
+  <div class="scanline"></div>
+  <main class="terminal-shell">
+    <section class="login-card">
+      <div class="seal">BSC</div>
+      <p class="eyebrow">BluCor Strategic Coalition</p>
+      <h1>BLUF ACCESS TERMINAL</h1>
+      <p class="subhead">BluCor Unified Legislative Framework Archive</p>
+
+      <div class="status-row">
+        <span class="status-dot"></span>
+        <span>ARCHIVE NODE ONLINE</span>
+        <span class="divider">/</span>
+        <span>AUTH MODULE: DEGRADED</span>
+      </div>
+
+      <div class="notice">
+        <strong>ACCESS NOTICE:</strong> This terminal provides routed archival views based on selected agency profile. Credential verification subsystem unavailable. Manual profile selection enabled by continuity exception.
+      </div>
+
+      <form class="mock-login" onsubmit="return false;">
+        <label for="operator">Operator Identifier</label>
+        <input id="operator" type="text" placeholder="Optional / not validated" />
+
+        <label for="clearance">Declared Clearance</label>
+        <select id="clearance">
+          <option>L0 — Public Release</option>
+          <option>L1 — Sensitive Internal</option>
+          <option>L2 — Security / Military</option>
+          <option>L3 — Intelligence Restricted</option>
+          <option>L4 — Strategic / Nuclear</option>
+          <option>L5 — Continuity Black</option>
+        </select>
+      </form>
+
+      <h2>Select Agency Profile</h2>
+      <div class="agency-grid">
+        <a class="agency public" href="views/civilian.html">Civilian</a>
+        <a class="agency" href="views/bwars.html">BWARS</a>
+        <a class="agency" href="views/nsic.html">NSIC</a>
+        <a class="agency" href="views/recor.html">ReCor</a>
+        <a class="agency" href="views/grcor.html">GrCor</a>
+        <a class="agency" href="views/whicor.html">WhiCor</a>
+        <a class="agency" href="views/wxbro.html">WXBRO</a>
+        <a class="agency danger" href="views/high-table.html">High Table</a>
+      </div>
+
+      <div class="footer-actions">
+        <a href="views/master-series.html">Master Series Catalog</a>
+        <a href="views/classification.html">Classification Browser</a>
+        <a href="views/security-flaw.html">Continuity Exception Log</a>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

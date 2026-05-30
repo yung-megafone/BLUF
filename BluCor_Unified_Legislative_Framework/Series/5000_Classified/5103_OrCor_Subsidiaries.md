@@ -80,7 +80,7 @@ Controlled OrCor activity may provide:
 
 # SECTION IV — TREASURY INCIDENT CORRELATION
 
-Internal assessments suggest the sophistication of the [[1107_GrCor_Reserve_and_Finance_Charter|GrCor]] [[7101_Treasury_Incident_Public_Report|Treasury Incident]] exceeded capabilities expected from ordinary criminal actors.
+Internal assessments suggest the sophistication of the [[1302_GrCor_Reserve_and_Finance_Charter|GrCor]] [[7101_Treasury_Incident_Public_Report|Treasury Incident]] exceeded capabilities expected from ordinary criminal actors.
 
 Further analysis remains compartmentalized.
 
@@ -122,13 +122,7 @@ END OF DIRECTIVE
 
 # LINKED REFERENCES
 
-- [[0003_Continuity_Emergency_Powers]]
-- [[0006_Coalition_Continuity_Charter]]
 - [[1101_BWARS_Authority_Doctrine]]
-- [[1102_NSIC_Operational_Authority]]
-- [[1105_WXBRO_Strategic_Oversight]]
-- [[1107_GrCor_Reserve_and_Finance_Charter]]
 - [[2105_Classified_Operations_Exemptions]]
-- [[7101_Treasury_Incident_Public_Report]]
 
 END OF LINKED REFERENCES

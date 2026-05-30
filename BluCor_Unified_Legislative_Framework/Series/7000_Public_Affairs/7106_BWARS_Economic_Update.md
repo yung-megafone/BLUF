@@ -15,7 +15,7 @@ tags:
   - public
 related:
   - "[[1101_BWARS_Authority_Doctrine]]"
-  - "[[1103_Treasury_Authority_Charter]]"
+  - "[[1300_Treasury_Authority_Charter]]"
   - "[[2102_Economic_Violations]]"
 aliases:
   - BWARS Economic Update
@@ -36,7 +36,7 @@ AUTHORIZED BY: `PUBLIC AFFAIRS BUREAU`
 
 # OFFICIAL UPDATE
 
-[[1101_BWARS_Authority_Doctrine|BWARS]], in coordination with the Coalition [[1103_Treasury_Authority_Charter|Treasury Authority]], announces continued economic security operations intended to protect reserve integrity, prevent illicit trade, and maintain stable distribution across Coalition territory.
+[[1101_BWARS_Authority_Doctrine|BWARS]], in coordination with the Coalition [[1300_Treasury_Authority_Charter|Treasury Authority]], announces continued economic security operations intended to protect reserve integrity, prevent illicit trade, and maintain stable distribution across Coalition territory.
 
 The Coalition economy remains functional and secure.
 
@@ -148,6 +148,6 @@ END OF UPDATE
 # LINKED REFERENCES
 
 - [[1101_BWARS_Authority_Doctrine]]
-- [[1103_Treasury_Authority_Charter]]
+- [[1300_Treasury_Authority_Charter]]
 
 END OF LINKED REFERENCES

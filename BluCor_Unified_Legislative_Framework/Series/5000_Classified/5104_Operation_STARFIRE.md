@@ -13,7 +13,7 @@ indexable: true
 tags:
   - classified
 related:
-  - "[[1102_NSIC_Operational_Authority]]"
+  - "[[1112_NSIC_Operational_Authority]]"
   - "[[9005_Orbital_Deterrence_Integration]]"
   - "[[9007_NOX_ULTIMA]]"
 aliases:
@@ -105,8 +105,8 @@ END OF DIRECTIVE
 
 # LINKED REFERENCES
 
-- [[1102_NSIC_Operational_Authority]]
-- [[1105_WXBRO_Strategic_Oversight]]
+- [[1112_NSIC_Operational_Authority]]
+- [[1150_WXBRO_Strategic_Oversight]]
 - [[9003_Strategic_Missile_Deployment_Standards]]
 - [[9005_Orbital_Deterrence_Integration]]
 

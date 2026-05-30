@@ -2,7 +2,7 @@
 title: 2101_Criminal_Offenses
 series: 2000
 category: penal
-classification: L1
+classification: L0
 status: ACTIVE
 authority:
   - BluCor
@@ -28,7 +28,7 @@ aliases:
 
 ### Penal and Judicial Series
 
-CLASSIFICATION: `L1`  
+CLASSIFICATION: `L0  
 STATUS: `ACTIVE`  
 AUTHORITY: `BLUCOR / BWARS`  
 AUTHORIZED BY: `HIGH TABLE`

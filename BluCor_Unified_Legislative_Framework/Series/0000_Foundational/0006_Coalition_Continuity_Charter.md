@@ -38,7 +38,7 @@ AUTHORIZED BY: `HIGH TABLE`
 
 # PURPOSE
 
-This charter defines continuity preservation as the supreme operational duty of the [[1106_BluCor_Central_Administration_Charter|BluCor]] Strategic Coalition.
+This charter defines continuity preservation as the supreme operational duty of the [[1102_BluCor_Administration_Charter|BluCor]] Strategic Coalition.
 
 All agencies, commanders, administrators, and authorities shall prioritize continuity where ordinary governance fails.
 
@@ -67,10 +67,10 @@ Continuity may survive even where normal administration is disrupted.
 The following institutions are recognized as continuity-bearing authorities:
 
 - High Table
-- [[1105_WXBRO_Strategic_Oversight|WXBRO]] personnel
+- [[1150_WXBRO_Strategic_Oversight|WXBRO]] personnel
 - [[1101_BWARS_Authority_Doctrine|BWARS]] command
-- [[1102_NSIC_Operational_Authority|NSIC]] command
-- [[1103_Treasury_Authority_Charter|Treasury Authority]]
+- [[1112_NSIC_Operational_Authority|NSIC]] command
+- [[1300_Treasury_Authority_Charter|Treasury Authority]]
 - Regional Command
 - Strategic infrastructure administrators
 
@@ -86,7 +86,7 @@ Where primary authority becomes unavailable, succession may proceed through:
 - WXBRO continuity officers
 - Regional command structures
 - [[1101_BWARS_Authority_Doctrine|BWARS]] emergency command
-- [[1102_NSIC_Operational_Authority|NSIC]] sealed command channels
+- [[1112_NSIC_Operational_Authority|NSIC]] sealed command channels
 - Treasury continuity administrators
 
 Public disclosure of succession hierarchy is not required.
@@ -201,9 +201,9 @@ END OF DIRECTIVE
 
 - [[0001_BULF_Constitution]]
 - [[1101_BWARS_Authority_Doctrine]]
-- [[1102_NSIC_Operational_Authority]]
-- [[1103_Treasury_Authority_Charter]]
-- [[1105_WXBRO_Strategic_Oversight]]
-- [[1106_BluCor_Central_Administration_Charter]]
+- [[1112_NSIC_Operational_Authority]]
+- [[1300_Treasury_Authority_Charter]]
+- [[1150_WXBRO_Strategic_Oversight]]
+- [[1102_BluCor_Administration_Charter]]
 
 END OF LINKED REFERENCES

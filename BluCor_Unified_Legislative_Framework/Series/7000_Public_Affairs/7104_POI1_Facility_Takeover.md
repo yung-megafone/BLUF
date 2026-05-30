@@ -35,7 +35,7 @@ AUTHORIZED BY: `PUBLIC AFFAIRS BUREAU`
 
 # OFFICIAL STATEMENT
 
-The [[1106_BluCor_Central_Administration_Charter|BluCor]] Strategic Coalition confirms that a restricted facility identified in public records as POI-1 was temporarily occupied by unauthorized personnel during a localized security incident.
+The [[1102_BluCor_Administration_Charter|BluCor]] Strategic Coalition confirms that a restricted facility identified in public records as POI-1 was temporarily occupied by unauthorized personnel during a localized security incident.
 
 Coalition response units regained control of the facility following containment operations.
 
@@ -150,6 +150,6 @@ END OF REPORT
 # LINKED REFERENCES
 
 - [[1101_BWARS_Authority_Doctrine]]
-- [[1106_BluCor_Central_Administration_Charter]]
+- [[1102_BluCor_Administration_Charter]]
 
 END OF LINKED REFERENCES

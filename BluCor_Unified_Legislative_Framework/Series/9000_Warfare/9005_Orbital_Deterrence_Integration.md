@@ -69,7 +69,7 @@ Orbital observation may support:
 - Hostile movement tracking
 - Continuity event review
 
-Orbital data may be fused with [[1102_NSIC_Operational_Authority|NSIC]] and [[1101_BWARS_Authority_Doctrine|BWARS]] reporting.
+Orbital data may be fused with [[1112_NSIC_Operational_Authority|NSIC]] and [[1101_BWARS_Authority_Doctrine|BWARS]] reporting.
 
 ---
 
@@ -105,8 +105,8 @@ Orbital deterrence actions require:
 - Valid command authentication
 - Threat classification
 - Continuity assessment
-- [[1105_WXBRO_Strategic_Oversight|WXBRO]] or High Table approval where applicable
-- [[1102_NSIC_Operational_Authority|NSIC]] verification where intelligence data is involved
+- [[1150_WXBRO_Strategic_Oversight|WXBRO]] or High Table approval where applicable
+- [[1112_NSIC_Operational_Authority|NSIC]] verification where intelligence data is involved
 
 Unauthorized tasking of orbital assets constitutes a classified systems breach.
 
@@ -153,8 +153,8 @@ END OF DIRECTIVE
 # LINKED REFERENCES
 
 - [[1101_BWARS_Authority_Doctrine]]
-- [[1102_NSIC_Operational_Authority]]
-- [[1105_WXBRO_Strategic_Oversight]]
+- [[1112_NSIC_Operational_Authority]]
+- [[1150_WXBRO_Strategic_Oversight]]
 - [[5104_Operation_STARFIRE]]
 
 END OF LINKED REFERENCES

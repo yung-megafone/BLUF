@@ -13,7 +13,7 @@ indexable: false
 tags:
   - classified
 related:
-  - "[[1102_NSIC_Operational_Authority]]"
+  - "[[1112_NSIC_Operational_Authority]]"
   - "[[3102_Residential_Surveillance_Standards]]"
   - "[[7103_Security_Measures_Announcement]]"
 aliases:
@@ -79,7 +79,7 @@ Certain records may remain archived indefinitely where:
 - Continuity concerns exist
 - Strategic review requires preservation
 - Tribunal relevance is possible
-- [[1102_NSIC_Operational_Authority|NSIC]] determines future operational value
+- [[1112_NSIC_Operational_Authority|NSIC]] determines future operational value
 
 ---
 
@@ -119,7 +119,7 @@ END OF DIRECTIVE
 - [[0003_Continuity_Emergency_Powers]]
 - [[0006_Coalition_Continuity_Charter]]
 - [[1101_BWARS_Authority_Doctrine]]
-- [[1102_NSIC_Operational_Authority]]
-- [[1105_WXBRO_Strategic_Oversight]]
+- [[1112_NSIC_Operational_Authority]]
+- [[1150_WXBRO_Strategic_Oversight]]
 
 END OF LINKED REFERENCES

@@ -14,7 +14,7 @@ tags:
   - public_affairs
   - public
 related:
-  - "[[1104_ReCor_Infrastructure_Charter]]"
+  - "[[1105_ReCor_Infrastructure_Charter]]"
   - "[[3104_Underground_Construction_Restrictions]]"
   - "[[7103_Security_Measures_Announcement]]"
 aliases:

@@ -34,7 +34,7 @@ AUTHORIZED BY: `PUBLIC AFFAIRS BUREAU`
 
 # OFFICIAL ADVISORY
 
-The [[1106_BluCor_Central_Administration_Charter|BluCor]] Strategic Coalition issues this Public Health and Safety Advisory to remind residents of standard procedures regarding hazardous materials, restricted zones, emergency reporting, sanitation, and community safety.
+The [[1102_BluCor_Administration_Charter|BluCor]] Strategic Coalition issues this Public Health and Safety Advisory to remind residents of standard procedures regarding hazardous materials, restricted zones, emergency reporting, sanitation, and community safety.
 
 Public health is a continuity requirement.
 
@@ -167,6 +167,6 @@ END OF ADVISORY
 # LINKED REFERENCES
 
 - [[1101_BWARS_Authority_Doctrine]]
-- [[1106_BluCor_Central_Administration_Charter]]
+- [[1102_BluCor_Administration_Charter]]
 
 END OF LINKED REFERENCES

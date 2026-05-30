@@ -39,7 +39,7 @@ AUTHORIZED BY: `HIGH TABLE`
 
 # PURPOSE
 
-This directive establishes the [[1106_BluCor_Central_Administration_Charter|BluCor]] Unified Legislative Framework Constitution as the supreme governing authority of the [[1106_BluCor_Central_Administration_Charter|BluCor]] Strategic Coalition.
+This directive establishes the [[1102_BluCor_Administration_Charter|BluCor]] Unified Legislative Framework Constitution as the supreme governing authority of the [[1102_BluCor_Administration_Charter|BluCor]] Strategic Coalition.
 
 All agencies, charters, penal statutes, classified directives, regulatory frameworks, military doctrines, and public authorities derive legitimacy from this Constitution.
 
@@ -119,12 +119,12 @@ Proceedings may remain classified where disclosure threatens continuity.
 The Coalition may charter agencies, ministries, bureaus, commissions, and authorities including but not limited to:
 
 - [[1101_BWARS_Authority_Doctrine|BWARS]]
-- [[1102_NSIC_Operational_Authority|NSIC]]
-- [[1104_ReCor_Infrastructure_Charter|ReCor]]
-- [[1107_GrCor_Reserve_and_Finance_Charter|GrCor]]
-- [[1108_WhiCor_Representation_and_Command_Charter|WhiCor]]
-- [[1103_Treasury_Authority_Charter|Treasury Authority]]
-- [[1105_WXBRO_Strategic_Oversight|WXBRO]] command elements
+- [[1112_NSIC_Operational_Authority|NSIC]]
+- [[1105_ReCor_Infrastructure_Charter|ReCor]]
+- [[1302_GrCor_Reserve_and_Finance_Charter|GrCor]]
+- [[1104_WhiCor_Aerospace_Development_Charter|WhiCor]]
+- [[1300_Treasury_Authority_Charter|Treasury Authority]]
+- [[1150_WXBRO_Strategic_Oversight|WXBRO]] command elements
 
 Agency powers shall be defined by charter.
 
@@ -300,12 +300,12 @@ END OF DIRECTIVE
 
 - [[0002_Bill_of_Rights]]
 - [[1101_BWARS_Authority_Doctrine]]
-- [[1102_NSIC_Operational_Authority]]
-- [[1103_Treasury_Authority_Charter]]
-- [[1104_ReCor_Infrastructure_Charter]]
-- [[1105_WXBRO_Strategic_Oversight]]
-- [[1106_BluCor_Central_Administration_Charter]]
-- [[1107_GrCor_Reserve_and_Finance_Charter]]
-- [[1108_WhiCor_Representation_and_Command_Charter]]
+- [[1112_NSIC_Operational_Authority]]
+- [[1300_Treasury_Authority_Charter]]
+- [[1105_ReCor_Infrastructure_Charter]]
+- [[1150_WXBRO_Strategic_Oversight]]
+- [[1102_BluCor_Administration_Charter]]
+- [[1302_GrCor_Reserve_and_Finance_Charter]]
+- [[1104_WhiCor_Aerospace_Development_Charter]]
 
 END OF LINKED REFERENCES

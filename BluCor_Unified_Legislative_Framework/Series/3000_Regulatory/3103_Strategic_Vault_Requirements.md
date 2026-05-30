@@ -15,8 +15,8 @@ tags:
   - regulatory
   - infrastructure
 related:
-  - "[[1103_Treasury_Authority_Charter]]"
-  - "[[1107_GrCor_Reserve_and_Finance_Charter]]"
+  - "[[1300_Treasury_Authority_Charter]]"
+  - "[[1302_GrCor_Reserve_and_Finance_Charter]]"
   - "[[2102_Economic_Violations]]"
 aliases:
   - Strategic Vault Requirements
@@ -118,7 +118,7 @@ END OF DIRECTIVE
 
 - [[0004_Territorial_and_Infrastructure_Claims]]
 - [[1101_BWARS_Authority_Doctrine]]
-- [[1103_Treasury_Authority_Charter]]
-- [[1107_GrCor_Reserve_and_Finance_Charter]]
+- [[1300_Treasury_Authority_Charter]]
+- [[1302_GrCor_Reserve_and_Finance_Charter]]
 
 END OF LINKED REFERENCES

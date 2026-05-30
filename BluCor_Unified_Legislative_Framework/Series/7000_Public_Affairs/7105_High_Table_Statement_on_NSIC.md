@@ -14,7 +14,7 @@ tags:
   - public_affairs
   - public
 related:
-  - "[[1102_NSIC_Operational_Authority]]"
+  - "[[1112_NSIC_Operational_Authority]]"
   - "[[5106_NSIC_Strategic_Materials_Non_Interference_Agreement]]"
 aliases:
   - High Table Statement on NSIC
@@ -35,17 +35,17 @@ AUTHORIZED BY: `PUBLIC AFFAIRS BUREAU`
 
 # OFFICIAL STATEMENT
 
-The High Table issues this statement to clarify the role of the National Strategic Intelligence Command ([[1102_NSIC_Operational_Authority|NSIC]]) within the broader Coalition security and continuity framework.
+The High Table issues this statement to clarify the role of the National Strategic Intelligence Command ([[1112_NSIC_Operational_Authority|NSIC]]) within the broader Coalition security and continuity framework.
 
-[[1102_NSIC_Operational_Authority|NSIC]] remains a lawful, recognized, and necessary institution of the [[1106_BluCor_Central_Administration_Charter|BluCor]] Strategic Coalition.
+[[1112_NSIC_Operational_Authority|NSIC]] remains a lawful, recognized, and necessary institution of the [[1102_BluCor_Administration_Charter|BluCor]] Strategic Coalition.
 
 Its existence reflects the Coalition’s responsibility to anticipate threats before they become public emergencies.
 
 ---
 
-# ROLE OF [[1102_NSIC_Operational_Authority|NSIC]]
+# ROLE OF [[1112_NSIC_Operational_Authority|NSIC]]
 
-[[1102_NSIC_Operational_Authority|NSIC]] supports Coalition continuity through:
+[[1112_NSIC_Operational_Authority|NSIC]] supports Coalition continuity through:
 
 - Intelligence analysis
 - Strategic threat review
@@ -55,7 +55,7 @@ Its existence reflects the Coalition’s responsibility to anticipate threats be
 - Restricted investigation
 - Emergency advisory functions
 
-Certain [[1102_NSIC_Operational_Authority|NSIC]] activities are not discussed publicly due to the sensitivity of ongoing threats and the need to protect operational effectiveness.
+Certain [[1112_NSIC_Operational_Authority|NSIC]] activities are not discussed publicly due to the sensitivity of ongoing threats and the need to protect operational effectiveness.
 
 ---
 
@@ -65,7 +65,7 @@ The High Table acknowledges that institutions operating partially outside public
 
 However, public visibility is not the same as lawful authority.
 
-[[1102_NSIC_Operational_Authority|NSIC]] operates under Coalition mandate, constitutional continuity doctrine, and internal review structures.
+[[1112_NSIC_Operational_Authority|NSIC]] operates under Coalition mandate, constitutional continuity doctrine, and internal review structures.
 
 The absence of public detail should not be mistaken for absence of oversight.
 
@@ -85,13 +85,13 @@ Some threats develop through:
 - Foreign-aligned influence
 - Restricted technology misuse
 
-[[1102_NSIC_Operational_Authority|NSIC]] exists to detect and contain such threats before public harm occurs.
+[[1112_NSIC_Operational_Authority|NSIC]] exists to detect and contain such threats before public harm occurs.
 
 ---
 
 # PUBLIC COOPERATION
 
-Residents may occasionally encounter [[1102_NSIC_Operational_Authority|NSIC]]-related restrictions, sealed areas, or information limitations.
+Residents may occasionally encounter [[1112_NSIC_Operational_Authority|NSIC]]-related restrictions, sealed areas, or information limitations.
 
 Residents are expected to comply with lawful instructions issued by authorized Coalition personnel.
 
@@ -103,7 +103,7 @@ Questions may be submitted through district administration, though certain answe
 
 The High Table will not disclose:
 
-- [[1102_NSIC_Operational_Authority|NSIC]] personnel rosters
+- [[1112_NSIC_Operational_Authority|NSIC]] personnel rosters
 - Operational methods
 - Facility locations
 - Surveillance capabilities
@@ -122,7 +122,7 @@ The public sees the peace.
 
 The institutions preserving that peace often remain unseen.
 
-The High Table reaffirms its confidence in [[1102_NSIC_Operational_Authority|NSIC]] as an essential component of Coalition stability.
+The High Table reaffirms its confidence in [[1112_NSIC_Operational_Authority|NSIC]] as an essential component of Coalition stability.
 
 ---
 
@@ -132,7 +132,7 @@ END OF STATEMENT
 
 # LINKED REFERENCES
 
-- [[1102_NSIC_Operational_Authority]]
-- [[1106_BluCor_Central_Administration_Charter]]
+- [[1112_NSIC_Operational_Authority]]
+- [[1102_BluCor_Administration_Charter]]
 
 END OF LINKED REFERENCES

@@ -35,7 +35,7 @@ AUTHORIZED BY: `PUBLIC AFFAIRS BUREAU`
 
 # OFFICIAL STATEMENT
 
-The [[1106_BluCor_Central_Administration_Charter|BluCor]] Strategic Coalition is aware of public concern regarding reports of unauthorized energy research activity, restricted materials handling, and damage at a research facility previously associated with BlaCor operations.
+The [[1102_BluCor_Administration_Charter|BluCor]] Strategic Coalition is aware of public concern regarding reports of unauthorized energy research activity, restricted materials handling, and damage at a research facility previously associated with BlaCor operations.
 
 The Coalition confirms that a localized industrial security incident occurred involving unauthorized handling of restricted energy materials.
 
@@ -142,6 +142,6 @@ END OF STATEMENT
 
 # LINKED REFERENCES
 
-- [[1106_BluCor_Central_Administration_Charter]]
+- [[1102_BluCor_Administration_Charter]]
 
 END OF LINKED REFERENCES

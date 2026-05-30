@@ -74,7 +74,7 @@ Evidence may remain classified indefinitely.
 Tribunals may consider:
 
 - Surveillance records
-- [[1102_NSIC_Operational_Authority|NSIC]] reports
+- [[1112_NSIC_Operational_Authority|NSIC]] reports
 - Treasury audits
 - Classified testimony
 - Strategic assessments
@@ -133,7 +133,7 @@ END OF DIRECTIVE
 - [[0003_Continuity_Emergency_Powers]]
 - [[0006_Coalition_Continuity_Charter]]
 - [[1101_BWARS_Authority_Doctrine]]
-- [[1102_NSIC_Operational_Authority]]
+- [[1112_NSIC_Operational_Authority]]
 - [[2103_High_Treason_Statutes]]
 
 END OF LINKED REFERENCES

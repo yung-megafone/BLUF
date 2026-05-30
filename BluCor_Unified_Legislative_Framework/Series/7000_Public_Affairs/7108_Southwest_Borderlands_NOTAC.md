@@ -35,7 +35,7 @@ AUTHORIZED BY: `PUBLIC AFFAIRS BUREAU`
 
 # OFFICIAL NOTICE
 
-The [[1106_BluCor_Central_Administration_Charter|BluCor]] Strategic Coalition hereby issues formal notice regarding the designation of an active missile and bomb testing range within the Southwest Borderlands sector.
+The [[1102_BluCor_Administration_Charter|BluCor]] Strategic Coalition hereby issues formal notice regarding the designation of an active missile and bomb testing range within the Southwest Borderlands sector.
 
 The Southwest Borderlands are recognized as the southwestern territorial edge of the Coalition and are subject to enhanced security control, restricted movement, and strategic weapons testing procedures.
 
@@ -135,6 +135,6 @@ END OF NOTAC
 
 # LINKED REFERENCES
 
-- [[1106_BluCor_Central_Administration_Charter]]
+- [[1102_BluCor_Administration_Charter]]
 
 END OF LINKED REFERENCES

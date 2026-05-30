@@ -36,7 +36,7 @@ AUTHORIZED BY: `PUBLIC AFFAIRS BUREAU`
 
 # OFFICIAL ANNOUNCEMENT
 
-The [[1106_BluCor_Central_Administration_Charter|BluCor]] Strategic Coalition announces the implementation of enhanced security measures across selected districts, transport corridors, financial infrastructure, residential developments, and strategic service areas.
+The [[1102_BluCor_Administration_Charter|BluCor]] Strategic Coalition announces the implementation of enhanced security measures across selected districts, transport corridors, financial infrastructure, residential developments, and strategic service areas.
 
 These measures are being enacted to improve public safety, infrastructure protection, and emergency readiness.
 
@@ -158,6 +158,6 @@ END OF ANNOUNCEMENT
 # LINKED REFERENCES
 
 - [[1101_BWARS_Authority_Doctrine]]
-- [[1106_BluCor_Central_Administration_Charter]]
+- [[1102_BluCor_Administration_Charter]]
 
 END OF LINKED REFERENCES

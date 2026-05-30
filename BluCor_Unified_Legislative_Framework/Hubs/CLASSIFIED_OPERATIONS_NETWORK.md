@@ -1,97 +1,55 @@
 ---
-title: CLASSIFIED_OPERATIONS_NETWORK
-series: meta
-category: node
-classification: L4
+title: "CLASSIFIED_OPERATIONS_NETWORK"
+category: hub
+classification: L0
+status: ACTIVE
+record_status: public
+indexable: true
 tags:
-  - l4
-  - BWARS
-  - BluCor
+  - BLUF
+  - hub
+  - dashboard
+aliases:
+  - "Classified Operations Network"
 ---
+# CLASSIFIED OPERATIONS NETWORK
+## Dynamic Restricted Programs and Strategic Operations Hub
 
+> [!warning] ARCHIVAL RESTRICTION NOTICE
+> Certain details may be withheld, altered, compartmentalized, or excluded pursuant to [[2105_Classified_Operations_Exemptions]].
 
-## Restricted Operations and Strategic Programs Hub
+## Indexed Classified Records
 
-This node centralizes compartmentalized Coalition intelligence programs, continuity operations, black projects, covert enforcement, and strategic deterrence systems.
+```dataview
+TABLE WITHOUT ID file.link AS "Document", classification AS "Class", compartment AS "Compartment", status AS "Status"
+FROM ""
+WHERE category = "classified" AND indexable = true
+SORT classification DESC, file.name ASC
+```
 
----
+## Continuity Black / L5
 
-# ACTIVE STRATEGIC OPERATIONS
+```dataview
+TABLE WITHOUT ID file.link AS "Document", record_status AS "Record Status", related AS "Related"
+FROM ""
+WHERE classification = "L5"
+SORT indexable ASC, file.name ASC
+```
 
-- [[5101_Operation_Graywatch|Operation GRAYWATCH]]
-    
-- [[5102_OrCor_Sanctions|OrCor Sanctions]]
-    
-- [[5104_Operation_STARFIRE|Operation STARFIRE]]
-    
-- [[5105_NSIC_WMD_Discovery|NSIC WMD Discovery]]
-    
-- [[5106_NSIC_Strategic_Materials_Non_Interference_Agreement|NSIC Strategic Materials Non-Interference Agreement]]
-    
+## L6 / Nonrecord / Deniable
 
----
+```dataview
+TABLE WITHOUT ID file.link AS "Document", classification AS "Class", record_status AS "Record Status", compartment AS "Compartment"
+FROM ""
+WHERE classification = "L6" OR record_status = "nonrecord" OR contains(tags, "deniable")
+SORT file.name ASC
+```
 
-# PRIMARY AUTHORITIES
+## NSIC-Linked Records
 
-- [[1102_NSIC_Operational_Authority|NSIC Operational Authority]]
-    
-- [[1105_WXBRO_Strategic_Oversight|WXBRO Strategic Oversight]]
-    
-- [[0003_Continuity_Emergency_Powers|Continuity Emergency Powers]]
-    
-
----
-
-# STRATEGIC WARFARE LINKS
-
-- [[9001_Defensive_Infrastructure_Doctrine|Defensive Infrastructure Doctrine]]
-    
-- [[9003_Strategic_Missile_Deployment_Standards|Strategic Missile Deployment Standards]]
-	
-- [[5107_Operation_ATRUM_SOL|Operation ATRUM SOL]]
-    
-- [[9005_Orbital_Deterrence_Integration|Orbital Deterrence Integration]]
-    
-- [[9006_Continuity_Relocation_Procedures|Continuity Relocation Procedures]]
-    
-- [[9007_NOX_ULTIMA|NOX ULTIMA]]
-    
-
----
-
-# RELATED PUBLIC INCIDENTS
-
-- [[7101_Treasury_Incident_Public_Report|Treasury Incident Public Report]]
-    
-- [[7102_Nuclear_Research_Clarification|Nuclear Research Clarification]]
-    
-- [[7105_High_Table_Statement_on_NSIC|High Table Statement on NSIC]]
-    
-- [[7108_Southwest_Borderlands_NOTAC|Southwest Borderlands NOTAC]]
-    
-
----
-
-# STRATEGIC THEMES
-
-- [[0006_Coalition_Continuity_Charter|Coalition Continuity Charter]]
-    
-- [[2105_Classified_Operations_Exemptions|Classified Operations Exemptions]]
-    
-- [[3102_Residential_Surveillance_Standards|Residential Surveillance Standards]]
-    
-
----
-
-# RELATED HUBS
-
-- [[PUBLIC_COMMUNICATIONS]]
-    
-- [[CONTINUITY_AND_DETERRENCE]]
-    
-- [[PENAL_AND_ENFORCEMENT]]
-    
-
----
-
-END OF NODE
+```dataview
+TABLE WITHOUT ID file.link AS "Document", classification AS "Class", category AS "Category", compartment AS "Compartment"
+FROM ""
+WHERE contains(authority, "NSIC") OR contains(tags, "nsic")
+SORT classification DESC, file.name ASC
+```

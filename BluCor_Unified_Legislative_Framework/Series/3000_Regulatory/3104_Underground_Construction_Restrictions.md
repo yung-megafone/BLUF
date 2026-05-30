@@ -2,7 +2,7 @@
 title: 3104_Underground_Construction_Restrictions
 series: 3000
 category: regulatory
-classification: L1
+classification: L0
 status: ACTIVE
 authority:
   - BluCor
@@ -28,7 +28,7 @@ aliases:
 
 ### Regulatory Compliance Series
 
-CLASSIFICATION: `L1`  
+CLASSIFICATION: `L0`  
 STATUS: `ACTIVE`  
 AUTHORITY: `BLUCOR / RECOR`  
 AUTHORIZED BY: `HIGH TABLE`
@@ -45,7 +45,7 @@ This directive establishes regulations governing subterranean excavation, underg
 
 Underground construction requires:
 
-- [[1104_ReCor_Infrastructure_Charter|ReCor]] approval
+- [[1105_ReCor_Infrastructure_Charter|ReCor]] approval
 - Structural review
 - Hazard review
 - Infrastructure mapping
@@ -71,7 +71,7 @@ Unauthorized underground activities include:
 Deep-level excavation beneath strategic districts may require:
 
 - [[1101_BWARS_Authority_Doctrine|BWARS]] review
-- [[1102_NSIC_Operational_Authority|NSIC]] review
+- [[1112_NSIC_Operational_Authority|NSIC]] review
 - Hazard containment approval
 - Continuity assessment
 
@@ -126,8 +126,8 @@ END OF DIRECTIVE
 
 - [[0004_Territorial_and_Infrastructure_Claims]]
 - [[1101_BWARS_Authority_Doctrine]]
-- [[1102_NSIC_Operational_Authority]]
-- [[1104_ReCor_Infrastructure_Charter]]
+- [[1112_NSIC_Operational_Authority]]
+- [[1105_ReCor_Infrastructure_Charter]]
 - [[9004_Underground_Warfare_Doctrine]]
 
 END OF LINKED REFERENCES

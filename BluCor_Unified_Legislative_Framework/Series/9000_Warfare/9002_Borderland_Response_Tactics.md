@@ -67,7 +67,7 @@ Borderlands are defined as territorial sectors located near:
 * Unregulated wilderness
 * Missile testing zones
 * Industrial exclusion regions
-* [[1102_NSIC_Operational_Authority|NSIC]] containment boundaries
+* [[1112_NSIC_Operational_Authority|NSIC]] containment boundaries
 * Unmapped subterranean sectors
 
 Borderlands may include both surface and underground operational areas.
@@ -256,7 +256,7 @@ Infrastructure denial may be authorized before territorial loss becomes imminent
 
 Borderlands are recognized as likely regions for dissident organization.
 
-[[1101_BWARS_Authority_Doctrine|BWARS]] and [[1102_NSIC_Operational_Authority|NSIC]] personnel may therefore authorize:
+[[1101_BWARS_Authority_Doctrine|BWARS]] and [[1112_NSIC_Operational_Authority|NSIC]] personnel may therefore authorize:
 
 * Expanded surveillance
 * Informant cultivation
@@ -375,8 +375,8 @@ END OF DIRECTIVE
 # LINKED REFERENCES
 
 - [[1101_BWARS_Authority_Doctrine]]
-- [[1102_NSIC_Operational_Authority]]
-- [[1105_WXBRO_Strategic_Oversight]]
+- [[1112_NSIC_Operational_Authority]]
+- [[1150_WXBRO_Strategic_Oversight]]
 - [[7108_Southwest_Borderlands_NOTAC]]
 
 END OF LINKED REFERENCES

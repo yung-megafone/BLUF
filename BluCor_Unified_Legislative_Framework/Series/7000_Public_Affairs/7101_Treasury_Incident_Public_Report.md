@@ -14,8 +14,8 @@ tags:
   - public_affairs
   - public
 related:
-  - "[[1103_Treasury_Authority_Charter]]"
-  - "[[1107_GrCor_Reserve_and_Finance_Charter]]"
+  - "[[1300_Treasury_Authority_Charter]]"
+  - "[[1302_GrCor_Reserve_and_Finance_Charter]]"
   - "[[2102_Economic_Violations]]"
   - "[[5103_OrCor_Subsidiaries]]"
 aliases:
@@ -37,7 +37,7 @@ AUTHORIZED BY: `PUBLIC AFFAIRS BUREAU`
 
 # OFFICIAL STATEMENT
 
-The [[1106_BluCor_Central_Administration_Charter|BluCor]] Strategic Coalition confirms that a robbery occurred at the [[1107_GrCor_Reserve_and_Finance_Charter|GrCor]] & Trust Reserve Bank located within SpawnTown during the late-night hours of 2025-08-02.
+The [[1102_BluCor_Administration_Charter|BluCor]] Strategic Coalition confirms that a robbery occurred at the [[1302_GrCor_Reserve_and_Finance_Charter|GrCor]] & Trust Reserve Bank located within SpawnTown during the late-night hours of 2025-08-02.
 
 The incident involved unauthorized access to the facility through a structural opening located along the side service area of the building. Unknown individuals entered the reserve area, accessed protected storage, removed a significant quantity of reserve material, and departed prior to full containment by security personnel.
 
@@ -60,13 +60,13 @@ Current findings suggest the suspects possessed substantial familiarity with:
 - Security response windows
 - Staff workflow
 
-While the investigation remains active, the current public assessment supports the likelihood of internal cooperation, negligent oversight, or direct procedural compromise among individuals associated with [[1107_GrCor_Reserve_and_Finance_Charter|GrCor]] facility operations.
+While the investigation remains active, the current public assessment supports the likelihood of internal cooperation, negligent oversight, or direct procedural compromise among individuals associated with [[1302_GrCor_Reserve_and_Finance_Charter|GrCor]] facility operations.
 
 ---
 
 # FACILITY STATUS
 
-The [[1107_GrCor_Reserve_and_Finance_Charter|GrCor]] & Trust Reserve Bank has been placed under temporary Coalition supervision pending completion of structural, financial, and personnel review.
+The [[1302_GrCor_Reserve_and_Finance_Charter|GrCor]] & Trust Reserve Bank has been placed under temporary Coalition supervision pending completion of structural, financial, and personnel review.
 
 Current actions include:
 
@@ -121,7 +121,7 @@ These measures are preventative and should not be interpreted as evidence of bro
 
 # ECONOMIC CONTINUITY
 
-The Coalition [[1103_Treasury_Authority_Charter|Treasury Authority]] confirms that the broader reserve system remains operational.
+The Coalition [[1300_Treasury_Authority_Charter|Treasury Authority]] confirms that the broader reserve system remains operational.
 
 No public panic, hoarding, unauthorized withdrawals, or rumor-based financial action is warranted.
 
@@ -162,8 +162,8 @@ END OF REPORT
 # LINKED REFERENCES
 
 - [[1101_BWARS_Authority_Doctrine]]
-- [[1103_Treasury_Authority_Charter]]
-- [[1106_BluCor_Central_Administration_Charter]]
-- [[1107_GrCor_Reserve_and_Finance_Charter]]
+- [[1300_Treasury_Authority_Charter]]
+- [[1102_BluCor_Administration_Charter]]
+- [[1302_GrCor_Reserve_and_Finance_Charter]]
 
 END OF LINKED REFERENCES

@@ -2,7 +2,7 @@
 title: 3101_Hazardous_Materials_Containment
 series: 3000
 category: regulatory
-classification: L1
+classification: L0
 status: ACTIVE
 authority:
   - BluCor
@@ -28,7 +28,7 @@ aliases:
 
 ### Regulatory Compliance Series
 
-CLASSIFICATION: `L1`  
+CLASSIFICATION: `L0`  
 STATUS: `ACTIVE`  
 AUTHORITY: `BLUCOR / RECOR`  
 AUTHORIZED BY: `HIGH TABLE`
@@ -106,7 +106,7 @@ Containment breaches may authorize:
 - Tunnel sealing
 - Controlled demolition
 - Emergency quarantine
-- [[1102_NSIC_Operational_Authority|NSIC]] intervention
+- [[1112_NSIC_Operational_Authority|NSIC]] intervention
 
 ---
 
@@ -135,6 +135,6 @@ END OF DIRECTIVE
 - [[0004_Territorial_and_Infrastructure_Claims]]
 - [[0006_Coalition_Continuity_Charter]]
 - [[1101_BWARS_Authority_Doctrine]]
-- [[1102_NSIC_Operational_Authority]]
+- [[1112_NSIC_Operational_Authority]]
 
 END OF LINKED REFERENCES

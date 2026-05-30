@@ -16,6 +16,9 @@ tags:
   - nsic
 aliases:
   - Operation ATRUM SOL
+related:
+  - "[[1112_NSIC_Operational_Authority]]"
+  - "[[5106_NSIC_Strategic_Materials_Non_Interference_Agreement]]"
 ---
 
 # DIRECTIVE 5107

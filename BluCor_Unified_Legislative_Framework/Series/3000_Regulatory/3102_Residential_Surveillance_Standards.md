@@ -57,7 +57,7 @@ Approved residential developments shall maintain:
 
 # SECTION II — DATA RETENTION
 
-Residential surveillance records shall be retained for durations determined by [[1102_NSIC_Operational_Authority|NSIC]] and [[1101_BWARS_Authority_Doctrine|BWARS]] review.
+Residential surveillance records shall be retained for durations determined by [[1112_NSIC_Operational_Authority|NSIC]] and [[1101_BWARS_Authority_Doctrine|BWARS]] review.
 
 Records may be archived indefinitely where strategic review requires.
 
@@ -114,6 +114,6 @@ END OF DIRECTIVE
 - [[0004_Territorial_and_Infrastructure_Claims]]
 - [[0006_Coalition_Continuity_Charter]]
 - [[1101_BWARS_Authority_Doctrine]]
-- [[1102_NSIC_Operational_Authority]]
+- [[1112_NSIC_Operational_Authority]]
 
 END OF LINKED REFERENCES

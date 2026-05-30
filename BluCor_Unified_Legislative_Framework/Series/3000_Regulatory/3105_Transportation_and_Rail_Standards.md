@@ -2,7 +2,7 @@
 title: 3105_Transportation_and_Rail_Standards
 series: 3000
 category: regulatory
-classification: L1
+classification: L0
 status: ACTIVE
 authority:
   - BluCor
@@ -15,7 +15,7 @@ tags:
   - regulatory
   - infrastructure
 related:
-  - "[[1104_ReCor_Infrastructure_Charter]]"
+  - "[[1105_ReCor_Infrastructure_Charter]]"
   - "[[7109_Public_Transit_Expansion_Bulletin]]"
   - "[[9006_Continuity_Relocation_Procedures]]"
 aliases:
@@ -28,7 +28,7 @@ aliases:
 
 ### Regulatory Compliance Series
 
-CLASSIFICATION: `L1`  
+CLASSIFICATION: `L0  
 STATUS: `ACTIVE`  
 AUTHORITY: `BLUCOR / RECOR`  
 AUTHORIZED BY: `HIGH TABLE`

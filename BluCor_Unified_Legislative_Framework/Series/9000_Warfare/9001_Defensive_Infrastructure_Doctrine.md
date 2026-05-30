@@ -370,6 +370,6 @@ END OF DIRECTIVE
 # LINKED REFERENCES
 
 - [[1101_BWARS_Authority_Doctrine]]
-- [[1105_WXBRO_Strategic_Oversight]]
+- [[1150_WXBRO_Strategic_Oversight]]
 
 END OF LINKED REFERENCES

@@ -35,7 +35,7 @@ AUTHORIZED BY: `PUBLIC AFFAIRS BUREAU`
 
 # OFFICIAL BULLETIN
 
-The [[1106_BluCor_Central_Administration_Charter|BluCor]] Strategic Coalition announces planned expansion and modernization of public transit infrastructure across selected districts.
+The [[1102_BluCor_Administration_Charter|BluCor]] Strategic Coalition announces planned expansion and modernization of public transit infrastructure across selected districts.
 
 The program is intended to improve resident mobility, worker access, emergency routing, district connectivity, and long-term infrastructure continuity.
 
@@ -71,7 +71,7 @@ Proposed improvements may include:
 - Access-control systems
 - Worker shuttle routes
 
-Final routing may be adjusted following [[1104_ReCor_Infrastructure_Charter|ReCor]] and [[1101_BWARS_Authority_Doctrine|BWARS]] review.
+Final routing may be adjusted following [[1105_ReCor_Infrastructure_Charter|ReCor]] and [[1101_BWARS_Authority_Doctrine|BWARS]] review.
 
 ---
 
@@ -148,7 +148,7 @@ END OF BULLETIN
 # LINKED REFERENCES
 
 - [[1101_BWARS_Authority_Doctrine]]
-- [[1104_ReCor_Infrastructure_Charter]]
-- [[1106_BluCor_Central_Administration_Charter]]
+- [[1105_ReCor_Infrastructure_Charter]]
+- [[1102_BluCor_Administration_Charter]]
 
 END OF LINKED REFERENCES

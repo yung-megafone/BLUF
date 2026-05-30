@@ -80,7 +80,7 @@ Missile sites shall prioritize:
 - Independent power
 - Emergency lockdown capability
 
-Sites must not be located where accidental detonation would compromise primary continuity command unless authorized by [[1105_WXBRO_Strategic_Oversight|WXBRO]] review.
+Sites must not be located where accidental detonation would compromise primary continuity command unless authorized by [[1150_WXBRO_Strategic_Oversight|WXBRO]] review.
 
 ---
 
@@ -157,7 +157,7 @@ END OF DIRECTIVE
 # LINKED REFERENCES
 
 - [[1101_BWARS_Authority_Doctrine]]
-- [[1105_WXBRO_Strategic_Oversight]]
+- [[1150_WXBRO_Strategic_Oversight]]
 - [[2103_High_Treason_Statutes]]
 
 END OF LINKED REFERENCES

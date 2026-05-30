@@ -2,13 +2,13 @@
 title: 1101_BWARS_Authority_Doctrine
 series: 1000
 category: governmental
-classification: L1
+classification: L0
 status: ACTIVE
 authority:
   - BluCor
 authorized_by:
   - High Table
-record_status: restricted
+record_status: public
 indexable: true
 tags:
   - governmental
@@ -28,7 +28,7 @@ aliases:
 
 ### Governmental Authority Series
 
-CLASSIFICATION: `L1`  
+CLASSIFICATION: `L0  
 STATUS: `ACTIVE`  
 AUTHORITY: `BLUCOR`  
 AUTHORIZED BY: `HIGH TABLE`

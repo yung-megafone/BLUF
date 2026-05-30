@@ -49,10 +49,10 @@ Relocation shall be treated as a controlled preservation measure, not evacuation
 Relocation categories shall include:
 
 ## Category A — Command Continuity
-High Table personnel, [[1105_WXBRO_Strategic_Oversight|WXBRO]] personnel, strategic command staff, and authorized continuity officers.
+High Table personnel, [[1150_WXBRO_Strategic_Oversight|WXBRO]] personnel, strategic command staff, and authorized continuity officers.
 
 ## Category B — Security Continuity
-[[1101_BWARS_Authority_Doctrine|BWARS]], [[1102_NSIC_Operational_Authority|NSIC]], tribunal staff, detention staff, and infrastructure security personnel.
+[[1101_BWARS_Authority_Doctrine|BWARS]], [[1112_NSIC_Operational_Authority|NSIC]], tribunal staff, detention staff, and infrastructure security personnel.
 
 ## Category C — Technical Continuity
 Engineers, power operators, redstone specialists, medical staff, archive staff, treasury staff, and communications workers.
@@ -93,7 +93,7 @@ Approved relocation sites may include:
 - Residential deep levels
 - Rail-linked bunkers
 - Tyrants Refuge auxiliary sectors
-- [[1104_ReCor_Infrastructure_Charter|ReCor]] emergency housing
+- [[1105_ReCor_Infrastructure_Charter|ReCor]] emergency housing
 - Classified continuity sites
 
 Exact site locations may be restricted.
@@ -127,7 +127,7 @@ Priority records include:
 - Facility maps
 - Strategic authentication keys
 - Tribunal records
-- [[1102_NSIC_Operational_Authority|NSIC]] continuity archives
+- [[1112_NSIC_Operational_Authority|NSIC]] continuity archives
 
 Records may be relocated before civilians where continuity requires.
 
@@ -171,8 +171,8 @@ END OF DIRECTIVE
 # LINKED REFERENCES
 
 - [[1101_BWARS_Authority_Doctrine]]
-- [[1102_NSIC_Operational_Authority]]
-- [[1104_ReCor_Infrastructure_Charter]]
-- [[1105_WXBRO_Strategic_Oversight]]
+- [[1112_NSIC_Operational_Authority]]
+- [[1105_ReCor_Infrastructure_Charter]]
+- [[1150_WXBRO_Strategic_Oversight]]
 
 END OF LINKED REFERENCES

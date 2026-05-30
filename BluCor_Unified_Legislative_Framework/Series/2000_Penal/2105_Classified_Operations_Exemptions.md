@@ -15,10 +15,7 @@ tags:
   - penal
   - law
 related:
-  - "[[1102_NSIC_Operational_Authority]]"
-  - "[[5101_Operation_Graywatch]]"
-  - "[[5104_Operation_STARFIRE]]"
-  - "[[9007_NOX_ULTIMA]]"
+  - "[[1112_NSIC_Operational_Authority]]"
 aliases:
   - Classified Operations Exemptions
 ---
@@ -60,8 +57,8 @@ Authorized classified operations may receive exemption from standard:
 Exemptions may only be authorized by:
 
 - High Table
-- [[1105_WXBRO_Strategic_Oversight|WXBRO]] oversight
-- [[1102_NSIC_Operational_Authority|NSIC]] command
+- [[1150_WXBRO_Strategic_Oversight|WXBRO]] oversight
+- [[1112_NSIC_Operational_Authority|NSIC]] command
 - Sealed continuity authority
 
 ---
@@ -124,7 +121,7 @@ END OF DIRECTIVE
 
 - [[0003_Continuity_Emergency_Powers]]
 - [[0006_Coalition_Continuity_Charter]]
-- [[1102_NSIC_Operational_Authority]]
-- [[1105_WXBRO_Strategic_Oversight]]
+- [[1112_NSIC_Operational_Authority]]
+- [[1150_WXBRO_Strategic_Oversight]]
 
 END OF LINKED REFERENCES
