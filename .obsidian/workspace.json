@@ -11,10 +11,28 @@
             "id": "f6c8146d94efa52f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "BluCor_Unified_Legislative_Framework/Series/3000_Regulatory/3204_Civic_Security_Infrastructure_Modernization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3204_Civic_Security_Infrastructure_Modernization"
+            }
+          },
+          {
+            "id": "77db87a82ee1a7f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BluCor_Unified_Legislative_Framework/Series/2000_Penal/2103_High_Treason_Statutes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2103_High_Treason_Statutes"
             }
           }
         ]
@@ -181,6 +199,12 @@
   },
   "active": "f6c8146d94efa52f",
   "lastOpenFiles": [
+    "BluCor_Unified_Legislative_Framework/Series/3000_Regulatory/3102_Residential_Surveillance_Standards.md",
+    "BluCor_Unified_Legislative_Framework/Series/3000_Regulatory/3204_Civic_Security_Infrastructure_Modernization.md",
+    "BluCor_Unified_Legislative_Framework/Series/5000_Classified/5504_3104A_Population_Continuity_Indexing_Directive.md",
+    "BluCor_Unified_Legislative_Framework/Series/2000_Penal/2103_High_Treason_Statutes.md",
+    "BluCor_Unified_Legislative_Framework/Series/2000_Penal/2075_High_Severity_Crimes.md",
+    "BluCor_Unified_Legislative_Framework/Series/5000_Classified/5101_Operation_Graywatch.md",
     "World-Wide Web/BULF.bc/BWARS/Continuity_Black_Dashboard.md",
     "World-Wide Web/RedNet.rc/RedNet_40_Freedom_Dr_Imagery_Watch.md",
     "World-Wide Web/RedNet.rc/REDNET_BLOG_HOME.md",
@@ -205,12 +229,6 @@
     "World-Wide Web/BULF.bc/BSC",
     "World-Wide Web/BULF.bc/By_Classification",
     "BluCor_Unified_Legislative_Framework/Series/5000_Classified/5105_NSIC_WMD_Discovery.md",
-    "World-Wide Web/BULF.bc/By_Classification/L3_Document_Dashboard.md",
-    "World-Wide Web/BULF.bc/By_Classification/L2_Document_Dashboard.md",
-    "BluCor_Unified_Legislative_Framework/Series/3000_Regulatory/3114_BluCor_Reactor_Authorization_Approval.md",
-    "World-Wide Web/BULF.bc/By_Classification/L5_Document_Dashboard.md",
-    "World-Wide Web/BULF.bc/By_Classification/L4_Document_Dashboard.md",
-    "BluCor_Unified_Legislative_Framework/Series/3000_Regulatory/3113_LiCor_Onsite_Reactor_Authorization_Request.md",
     "_templates"
   ]
 }
